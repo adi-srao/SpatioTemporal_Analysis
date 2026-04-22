@@ -1,0 +1,11 @@
+,BIN,House #,Street Name,Zip_code,Borough,Status,Number of DWT,Activity_Type,Activity_Year,Violation_Code,Law_Section,Violation_Text,Compliance_Year,Date_of_Occurrence,Summons_Number,BBL,Longitude,Latitude,Community_Board,Council_District,Census_Tract,NTA_Code
+390,2024145.0,1210,croes avenue,10472,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2020.0,0,0.0,2037490001.0,-73.870695,40.829726,209.0,18.0,6800.0,bx0901
+413,2024145.0,1210,croes avenue,10472,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2021.0,0,0.0,2037490001.0,-73.870695,40.829726,209.0,18.0,6800.0,bx0901
+436,2024145.0,1210,croes avenue,10472,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2022.0,0,0.0,2037490001.0,-73.870695,40.829726,209.0,18.0,6800.0,bx0901
+459,2024145.0,1210,croes avenue,10472,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2023.0,0,0.0,2037490001.0,-73.870695,40.829726,209.0,18.0,6800.0,bx0901
+482,2024145.0,1210,croes avenue,10472,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2024.0,0,0.0,2037490001.0,-73.870695,40.829726,209.0,18.0,6800.0,bx0901
+505,2084624.0,5235,post road,10471,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2020.0,0,0.0,2058363250.0,-73.898479,40.898333,208.0,11.0,35100.0,bx0803
+528,2084624.0,5235,post road,10471,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2021.0,0,0.0,2058363250.0,-73.898479,40.898333,208.0,11.0,35100.0,bx0803
+551,2084624.0,5235,post road,10471,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2022.0,0,0.0,2058363250.0,-73.898479,40.898333,208.0,11.0,35100.0,bx0803
+573,2084624.0,5235,post road,10471,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2023.0,0,0.0,2058363250.0,-73.898479,40.898333,208.0,11.0,35100.0,bx0803
+617,2084624.0,5235,post road,10471,bronx,active,1.0,nyc health department audit,2024.0,0,0,0,2024.0,0,0.0,2058363250.0,-73.898479,40.898333,208.0,11.0,35100.0,bx0803

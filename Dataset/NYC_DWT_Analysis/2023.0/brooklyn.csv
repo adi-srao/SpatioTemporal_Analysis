@@ -1,0 +1,356 @@
+,BIN,House #,Street Name,Zip_code,Borough,Status,Number of DWT,Activity_Type,Activity_Year,Violation_Code,Law_Section,Violation_Text,Compliance_Year,Date_of_Occurrence,Summons_Number,BBL,Longitude,Latitude,Community_Board,Council_District,Census_Tract,NTA_Code
+985,3137572.0,950,49th street,11219,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2019.0,12/29/2023,871302439.0,3056380019.0,-73.999816,40.639666,312.0,38.0,11400.0,bk1201
+986,3137572.0,950,49th street,11219,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,12/29/2023,871302448.0,3056380019.0,-73.999816,40.639666,312.0,38.0,11400.0,bk1201
+987,3137572.0,950,49th street,11219,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,12/29/2023,871302457.0,3056380019.0,-73.999816,40.639666,312.0,38.0,11400.0,bk1201
+988,3025610.0,501,6th street,11215,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2020.0,12/29/2023,871302466.0,3010840164.0,-73.979031,40.668213,306.0,39.0,15300.0,bk0602
+989,3025610.0,501,6th street,11215,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,12/29/2023,871302475.0,3010840164.0,-73.979031,40.668213,306.0,39.0,15300.0,bk0602
+990,3025610.0,501,6th street,11215,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,12/29/2023,871302484.0,3010840164.0,-73.979031,40.668213,306.0,39.0,15300.0,bk0602
+1018,3336293.0,948,48th st,11219,brooklyn,active,2.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,12/26/2023,871302942.0,3056310038.0,-73.999261,40.640243,312.0,38.0,11400.0,bk1201
+1020,3336293.0,948,48th st,11219,brooklyn,active,2.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,12/26/2023,871302960.0,3056310038.0,-73.999261,40.640243,312.0,38.0,11400.0,bk1201
+1021,3336293.0,948,48th st,11219,brooklyn,active,2.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2020.0,12/26/2023,871302970.0,3056310038.0,-73.999261,40.640243,312.0,38.0,11400.0,bk1201
+1022,3002555.0,111,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,01/03/2024,871302989.0,3002660001.0,-73.989791,40.691136,302.0,33.0,900.0,bk0201
+1023,3002555.0,111,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2020.0,01/03/2024,871302998.0,3002660001.0,-73.989791,40.691136,302.0,33.0,900.0,bk0201
+1025,3002555.0,111,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,01/03/2024,871303016.0,3002660001.0,-73.989791,40.691136,302.0,33.0,900.0,bk0201
+1030,3000484.0,180,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2020.0,01/03/2024,871303061.0,3001647501.0,-73.986838,40.690052,302.0,33.0,3700.0,bk0202
+1033,3000484.0,180,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,01/03/2024,871303099.0,3001647501.0,-73.986838,40.690052,302.0,33.0,3700.0,bk0202
+1037,3000484.0,180,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,01/03/2024,871303135.0,3001647501.0,-73.986838,40.690052,302.0,33.0,3700.0,bk0202
+1039,3000484.0,180,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2019.0,01/02/2024,871303153.0,3001647501.0,-73.986838,40.690052,302.0,33.0,3700.0,bk0202
+1064,3002009.0,185,montague street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2020.0,01/03/2024,871303429.0,3002440013.0,-73.991832,40.69412,302.0,33.0,900.0,bk0201
+1065,3002009.0,185,montague street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,01/03/2024,871303438.0,3002440013.0,-73.991832,40.69412,302.0,33.0,900.0,bk0201
+1066,3002009.0,185,montague street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,01/03/2024,871303447.0,3002440013.0,-73.991832,40.69412,302.0,33.0,900.0,bk0201
+1067,3002548.0,186,joralemon street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2020.0,01/03/2024,871303456.0,3002650040.0,-73.991843,40.692662,302.0,33.0,900.0,bk0201
+1068,3002548.0,186,joralemon street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2022.0,01/03/2024,871303465.0,3002650040.0,-73.991843,40.692662,302.0,33.0,900.0,bk0201
+1069,3002548.0,186,joralemon street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,ah7d,nychc 141.07(b),"failure to inspect drinking water tank, including testing water for bacteriological content.",2021.0,01/03/2024,871303474.0,3002650040.0,-73.991843,40.692662,302.0,33.0,900.0,bk0201
+1111,3000261.0,375,pearl street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871304840.0,3001400106.0,-73.988154,40.692868,302.0,33.0,1100.0,bk0202
+1115,3024923.0,140,8th ave,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871304886.0,3010710004.0,-73.974275,40.671695,306.0,39.0,15700.0,bk0602
+1346,3107316.0,636,brooklyn avenue,11203,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307232.0,3048150037.0,-73.94522,40.658513,309.0,40.0,81000.0,bk0902
+1348,3117133.0,630,ocean avenue,11226,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307250.0,3051000074.0,-73.960544,40.647565,314.0,40.0,51002.0,bk1401
+1349,3000484.0,180,livingston street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307260.0,3001647501.0,-73.986838,40.690052,302.0,33.0,3700.0,bk0202
+1350,3189628.0,3045,west 29 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307279.0,3070680030.0,-73.994802,40.572169,313.0,47.0,34000.0,bk1302
+1351,3002548.0,186,joralemon street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307288.0,3002650040.0,-73.991843,40.692662,302.0,33.0,900.0,bk0201
+1352,3245725.0,35,seacoast terrace,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307297.0,3087210360.0,-73.956648,40.576259,313.0,48.0,61002.0,bk1303
+1353,3029030.0,371,flatbush ave,11238,brooklyn,active,2.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307306.0,3011640003.0,-73.972053,40.676641,308.0,35.0,16300.0,bk0801
+1354,3029715.0,49-57,crown street,11225,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307315.0,3011890060.0,-73.960229,40.667352,309.0,35.0,21300.0,bk0901
+1355,3320932.0,2525,batchelder street,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307324.0,3074490001.0,-73.937238,40.591314,315.0,46.0,62600.0,bk1503
+1356,3055395.0,500,dekalb ave,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307333.0,3019410020.0,-73.956635,40.690758,303.0,36.0,23300.0,bk0301
+1357,3325882.0,18,boerum st,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307342.0,3030767501.0,-73.948954,40.705321,301.0,34.0,49100.0,bk0104
+1358,3335934.0,180,remsen street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307351.0,3002550036.0,-73.991587,40.693277,302.0,33.0,900.0,bk0201
+1359,3341663.0,1704,st. john's place,11233,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307360.0,3014730025.0,-73.921202,40.670041,316.0,41.0,36100.0,bk1601
+1360,3413765.0,2,north 6th place,11249,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307370.0,3023240030.0,-73.963203,40.720447,301.0,33.0,55500.0,bk0102
+1361,3425311.0,96,wythe avenue,11249,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307398.0,3022950021.0,-73.958332,40.721489,301.0,33.0,55700.0,bk0102
+1362,3426466.0,1,bell slip,11222,brooklyn,active,2.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307407.0,3024720200.0,-73.958597,40.73672,301.0,33.0,56302.0,bk0101
+1374,3418101.0,1,blue slip,11222,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,02/26/2024,871307526.0,3024727503.0,-73.959012,40.736165,301.0,33.0,56302.0,bk0101
+11701,3002009.0,185,montague street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002440013.0,-73.991832,40.69412,302.0,33.0,900.0,bk0201
+11702,3002009.0,185,montague street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2019.0,0,0.0,3002440013.0,-73.991832,40.69412,302.0,33.0,900.0,bk0201
+11703,3002548.0,186,joralemon street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2019.0,0,0.0,3002650040.0,-73.991843,40.692662,302.0,33.0,900.0,bk0201
+11704,3002555.0,111,livingston street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002660001.0,-73.989791,40.691136,302.0,33.0,900.0,bk0201
+11705,3002555.0,111,livingston street,11201,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2019.0,0,0.0,3002660001.0,-73.989791,40.691136,302.0,33.0,900.0,bk0201
+11706,3025610.0,501,6th street,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010840164.0,-73.979031,40.668213,306.0,39.0,15300.0,bk0602
+11707,3025610.0,501,6th street,11215,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2019.0,0,0.0,3010840164.0,-73.979031,40.668213,306.0,39.0,15300.0,bk0602
+11708,3137572.0,950,49th street,11219,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3056380019.0,-73.999816,40.639666,312.0,38.0,11400.0,bk1201
+11709,3137572.0,950,49th street,11219,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2020.0,0,0.0,3056380019.0,-73.999816,40.639666,312.0,38.0,11400.0,bk1201
+11710,3320932.0,2525,batchelder street,11235,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2019.0,0,0.0,3074490001.0,-73.937238,40.591314,315.0,46.0,62600.0,bk1503
+11711,3320932.0,2525,batchelder street,11235,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2020.0,0,0.0,3074490001.0,-73.937238,40.591314,315.0,46.0,62600.0,bk1503
+11712,3320932.0,2525,batchelder street,11235,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2021.0,0,0.0,3074490001.0,-73.937238,40.591314,315.0,46.0,62600.0,bk1503
+11713,3320932.0,2525,batchelder street,11235,brooklyn,active,1.0,nyc health department inspection,2023.0,0,0,0,2022.0,0,0.0,3074490001.0,-73.937238,40.591314,315.0,46.0,62600.0,bk1503
+11714,3336293.0,948,48th st,11219,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3056310038.0,-73.999261,40.640243,312.0,38.0,11400.0,bk1201
+11715,3336293.0,948,48th st,11219,brooklyn,active,2.0,nyc health department inspection,2023.0,0,0,0,2019.0,0,0.0,3056310038.0,-73.999261,40.640243,312.0,38.0,11400.0,bk1201
+16043,3000010.0,20,jay street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000190001.0,-73.986587,40.704313,302.0,33.0,2100.0,bk0202
+16044,3000179.0,90,sands street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000870009.0,-73.987219,40.70007,302.0,33.0,1300.0,bk0202
+16045,3000216.0,49,flatbush avenue extension,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001200020.0,-73.985016,40.697339,302.0,33.0,1501.0,bk0202
+16046,3000242.0,271,cadman plaza east,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001270001.0,-73.990047,40.695805,302.0,33.0,1300.0,bk0202
+16047,3000244.0,101,johnson street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001310025.0,-73.986318,40.694937,302.0,33.0,1300.0,bk0202
+16048,3000246.0,11,metrotech center,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001320001.0,-73.985103,40.695426,302.0,33.0,1501.0,bk0202
+16049,3000257.0,360,adams street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001390020.0,-73.988904,40.694122,302.0,33.0,1100.0,bk0202
+16050,3000259.0,335,adams street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001407501.0,-73.988908,40.693565,302.0,33.0,1100.0,bk0202
+16051,3000265.0,6,metro tech,11201,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3001427502.0,-73.987205,40.694032,302.0,33.0,1100.0,bk0202
+16052,3000349.0,360,bridge street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001480039.0,-73.985266,40.692632,302.0,33.0,1100.0,bk0202
+16053,3000350.0,81,willoughby street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001480046.0,-73.985753,40.692184,302.0,33.0,1100.0,bk0202
+16054,3000370.0,9,dekalb avenue,11201,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001497503.0,-73.98254,40.689985,302.0,33.0,1502.0,bk0202
+16055,3000412.0,80,willoughby street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001527502.0,-73.985616,40.692162,302.0,33.0,1100.0,bk0202
+16056,3000428.0,141,livingston st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001540028.0,-73.988346,40.690647,302.0,33.0,3700.0,bk0202
+16057,3000534.0,120,schermerhorn street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001690017.0,-73.988923,40.690074,302.0,33.0,4300.0,bk0202
+16058,3001510.0,160,columbia heights,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002080331.0,-73.996495,40.697982,302.0,33.0,301.0,bk0201
+16059,3001519.0,2,montague terrace,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002080508.0,-73.99744,40.695547,302.0,33.0,301.0,bk0201
+16060,3001548.0,140,cadman plaza west,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002120001.0,-73.99098,40.699994,302.0,33.0,100.0,bk0201
+16061,3001646.0,80,cranberry street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002210020.0,-73.992679,40.699552,302.0,33.0,100.0,bk0201
+16062,3001685.0,45,pineapple street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002260001.0,-73.993985,40.698459,302.0,33.0,100.0,bk0201
+16063,3001717.0,21,clark street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002300001.0,-73.995326,40.698094,302.0,33.0,301.0,bk0201
+16064,3001726.0,111,hicks street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002310019.0,-73.994439,40.69821,302.0,33.0,501.0,bk0201
+16065,3001734.0,1,pierrepont street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002340008.0,-73.997032,40.696574,302.0,33.0,301.0,bk0201
+16066,3001779.0,35,pierrepont street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002350004.0,-73.996008,40.69603,302.0,33.0,301.0,bk0201
+16067,3001790.0,135,willow st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002350020.0,-73.995925,40.697123,302.0,33.0,301.0,bk0201
+16068,3001819.0,160,henry street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002360001.0,-73.993851,40.695756,302.0,33.0,501.0,bk0201
+16069,3001825.0,55,pierrepont street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002367502.0,-73.995117,40.695783,302.0,33.0,501.0,bk0201
+16070,3001826.0,187,hicks street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002360018.0,-73.995478,40.696019,302.0,33.0,501.0,bk0201
+16071,3001881.0,45,monroe place,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002370001.0,-73.992802,40.695822,302.0,33.0,502.0,bk0201
+16072,3001882.0,161,henry street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002370008.0,-73.993826,40.695759,302.0,33.0,502.0,bk0201
+16073,3001883.0,155,henry street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002370017.0,-73.993639,40.696157,302.0,33.0,502.0,bk0201
+16074,3001909.0,25,monroe place,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002370054.0,-73.992564,40.696324,302.0,33.0,502.0,bk0201
+16075,3001936.0,40,clinton street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002380065.0,-73.9919,40.695374,302.0,33.0,502.0,bk0201
+16076,3001937.0,300,cadman plaza west,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002390001.0,-73.990869,40.695198,302.0,33.0,502.0,bk0201
+16077,3001944.0,57,montague street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002410012.0,-73.996924,40.695525,302.0,33.0,301.0,bk0201
+16078,3001965.0,111-117,montague street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002420008.0,-73.994987,40.69499,302.0,33.0,501.0,bk0201
+16079,3001978.0,62,pierrepont st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002420027.0,-73.994767,40.695671,302.0,33.0,501.0,bk0201
+16080,3002008.0,195,montague st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002447501.0,-73.991472,40.694015,302.0,33.0,900.0,bk0201
+16081,3002033.0,62,montague street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002470025.0,-73.99678,40.695468,302.0,33.0,301.0,bk0201
+16082,3002035.0,68,montague street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002470028.0,-73.996589,40.695416,302.0,33.0,301.0,bk0201
+16083,3002054.0,98,montague street,11201,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3002480015.0,-73.995301,40.695059,302.0,33.0,501.0,bk0201
+16084,3002095.0,175,remsen st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002500007.0,-73.991634,40.693307,302.0,33.0,900.0,bk0201
+16085,3002105.0,180,montague street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002500030.0,-73.991756,40.694079,302.0,33.0,900.0,bk0201
+16086,3002108.0,16,court street,11241,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002500044.0,-73.990577,40.693445,302.0,33.0,900.0,bk0201
+16087,3002200.0,60,remsen street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002530053.0,-73.995943,40.694482,302.0,33.0,501.0,bk0201
+16088,3002201.0,70,remsen street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002530057.0,-73.995658,40.694403,302.0,33.0,501.0,bk0201
+16089,3002242.0,44,court street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002550001.0,-73.990963,40.692591,302.0,33.0,900.0,bk0201
+16090,3002248.0,32,court street,11201,brooklyn,active,4.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002550044.0,-73.990758,40.693014,302.0,33.0,900.0,bk0201
+16091,3002538.0,142,joralemon street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002640015.0,-73.99357,40.692909,302.0,33.0,700.0,bk0201
+16092,3002539.0,150,joralemon st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002640017.0,-73.993267,40.692863,302.0,33.0,700.0,bk0201
+16093,3002543.0,75,livingston street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002650001.0,-73.991742,40.691688,302.0,33.0,900.0,bk0201
+16094,3002547.0,184,joralemon street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002650039.0,-73.991901,40.692671,302.0,33.0,900.0,bk0201
+16095,3002549.0,50,court street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002650043.0,-73.9911,40.692314,302.0,33.0,900.0,bk0201
+16096,3002556.0,85,livingston street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002660012.0,-73.990823,40.69143,302.0,33.0,900.0,bk0201
+16097,3002557.0,65,court street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002660020.0,-73.991227,40.692012,302.0,33.0,900.0,bk0201
+16098,3002558.0,210,joralemon street,11201,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002667501.0,-73.990491,40.692459,302.0,33.0,900.0,bk0201
+16099,3002707.0,96,schermerhorn street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002710047.0,-73.990174,40.690488,302.0,33.0,900.0,bk0201
+16100,3014856.0,150,55th street,11220,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3008280001.0,-74.02093,40.646941,307.0,38.0,2200.0,bk0702
+16101,3022136.0,359,ninth street,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010057502.0,-73.984694,40.668403,306.0,39.0,13700.0,bk0602
+16102,3023223.0,506,6th avenue,11215,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3010290045.0,-73.985884,40.665725,306.0,39.0,13900.0,bk0602
+16103,3024466.0,209,lincoln place,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010590061.0,-73.97334,40.675252,306.0,39.0,15900.0,bk0602
+16104,3024471.0,1,plaza st west,11217,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3010600008.0,-73.971148,40.675145,306.0,39.0,15900.0,bk0602
+16105,3024625.0,39,plaza street west,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010640018.0,-73.971437,40.673665,306.0,39.0,15900.0,bk0602
+16106,3024627.0,47,plaza street west,11217,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010640024.0,-73.971319,40.673344,306.0,39.0,15900.0,bk0602
+16107,3024655.0,90,eighth ave,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010650037.0,-73.973247,40.673073,306.0,39.0,15700.0,bk0602
+16108,3024765.0,118,8th avenue,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010670045.0,-73.973738,40.672359,306.0,39.0,15700.0,bk0602
+16109,3024821.0,9,prospect park west,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010680037.0,-73.970933,40.671777,306.0,39.0,16500.0,bk0602
+16110,3024968.0,27,prospect park west,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010720040.0,-73.971752,40.670728,306.0,39.0,16500.0,bk0602
+16111,3025018.0,35,prospect park west,11215,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010730041.0,-73.972163,40.670229,306.0,39.0,16500.0,bk0602
+16112,3029254.0,753,classon ave,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011680006.0,-73.96011,40.674732,308.0,35.0,21700.0,bk0802
+16113,3029306.0,10,plaza street east,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011690001.0,-73.970647,40.675474,308.0,39.0,15900.0,bk0602
+16114,3029309.0,385,flatbush avenue,11238,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011690009.0,-73.971736,40.676202,308.0,39.0,15900.0,bk0602
+16115,3029312.0,50,plaza street east,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011700001.0,-73.969065,40.674831,308.0,35.0,20700.0,bk0801
+16116,3029313.0,36,plaza street,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011700005.0,-73.969483,40.67524,308.0,35.0,20700.0,bk0801
+16117,3029314.0,34,plaza street east,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011700009.0,-73.969558,40.67529,308.0,35.0,20700.0,bk0801
+16118,3029628.0,135,eastern parkway,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011790047.0,-73.964289,40.672162,308.0,35.0,21500.0,bk0801
+16119,3029636.0,41,eastern parkway,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011790096.0,-73.966946,40.672887,308.0,35.0,21500.0,bk0801
+16120,3029665.0,10,grand army plaza,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011830002.0,-73.969069,40.672833,355.0,35.0,17700.0,bk5591
+16121,3034357.0,1720,bedford avenue,11225,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3013020001.0,-73.957214,40.664762,309.0,35.0,32500.0,bk0901
+16122,3035751.0,447,kingsborough 4th walk,11233,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3013440175.0,-73.924931,40.675242,308.0,41.0,30700.0,bk0802
+16123,3039983.0,33-35,saratoga avenue,11233,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3014920001.0,-73.917769,40.685898,316.0,41.0,37300.0,bk1601
+16124,3042881.0,303,vernon avenue,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3015850001.0,-73.939607,40.695732,303.0,36.0,28300.0,bk0302
+16125,3043113.0,383,pulaski street,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3015950024.0,-73.934812,40.694036,303.0,36.0,28700.0,bk0302
+16126,3048341.0,760,broadway,11206,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3017230001.0,-73.941604,40.700528,303.0,36.0,28501.0,bk0302
+16127,3051074.0,390,nostrand avenue,11216,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3018120042.0,-73.950725,40.686092,303.0,36.0,24300.0,bk0301
+16128,3054892.0,185,hall street,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019050001.0,-73.965678,40.692336,302.0,35.0,19300.0,bk0204
+16129,3054896.0,195,willoughby avenue,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019050080.0,-73.964181,40.692048,302.0,35.0,19300.0,bk0204
+16130,3054897.0,215,willoughby avenue,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019050120.0,-73.96306,40.692179,302.0,35.0,19300.0,bk0204
+16131,3055374.0,21,saint james place,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019330001.0,-73.965001,40.689103,302.0,35.0,19300.0,bk0204
+16132,3055375.0,309,lafayette avenue,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019330060.0,-73.963664,40.688468,302.0,35.0,19300.0,bk0204
+16133,3055377.0,333,lafayette avenue,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019330100.0,-73.961886,40.688674,302.0,35.0,19300.0,bk0204
+16134,3057474.0,62,hanson place,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020030020.0,-73.975096,40.685414,302.0,35.0,3500.0,bk0203
+16135,3057913.0,1274,bedford avenue,11216,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020220018.0,-73.953282,40.680142,303.0,36.0,24700.0,bk0301
+16136,3057921.0,45,north elliot place,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020270001.0,-73.977428,40.697,302.0,35.0,21100.0,bk0203
+16137,3058223.0,3,metrotech center,11201,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020580017.0,-73.984786,40.693691,302.0,33.0,1502.0,bk0202
+16138,3058246.0,141,willoughby street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020600001.0,-73.983135,40.692085,302.0,33.0,1502.0,bk0202
+16139,3058255.0,122,ashland place,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020610040.0,-73.979034,40.692463,302.0,35.0,3101.0,bk0203
+16140,3058256.0,191,willoughby street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020610060.0,-73.98056,40.691989,302.0,35.0,3101.0,bk0203
+16141,3058257.0,175,willoughby street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020610080.0,-73.981104,40.692008,302.0,35.0,3101.0,bk0203
+16142,3058264.0,140,saint edwards street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020680117.0,-73.977689,40.692636,302.0,35.0,3101.0,bk0203
+16143,3058410.0,121,dekalb avenue,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020880004.0,-73.977586,40.6898,302.0,35.0,3101.0,bk0203
+16144,3058752.0,29,fort greene place,11217,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020980013.0,-73.976905,40.688834,302.0,35.0,3300.0,bk0203
+16145,3058921.0,101,lafayette avenue,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021000072.0,-73.974093,40.687261,302.0,35.0,18100.0,bk0203
+16146,3059262.0,67,hanson place,11217,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3021140001.0,-73.974897,40.685452,302.0,35.0,3500.0,bk0203
+16147,3059506.0,60,broadway,11249,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3021307501.0,-73.966426,40.710581,301.0,34.0,54900.0,bk0102
+16148,3059901.0,626,wythe place,11249,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021750070.0,-73.964589,40.704468,301.0,34.0,54500.0,bk0103
+16149,3059905.0,121,wilson street,11249,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021760001.0,-73.962623,40.705274,301.0,34.0,54500.0,bk0103
+16150,3071200.0,91,boerum street,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3030600075.0,-73.945513,40.705676,301.0,34.0,50500.0,bk0104
+16151,3076376.0,315,wyckoff ave,11237,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3033380001.0,-73.911981,40.700045,304.0,37.0,43900.0,bk0402
+16152,3082700.0,2025-07-29t00:00:00.000,hegeman avenue,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,1036210001.0,-73.91186298,40.65558354,316.0,42.0,89600.0,bk1602
+16153,3083450.0,17,hinsdale street,11207,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3036820033.0,-73.901487,40.674961,305.0,37.0,114400.0,bk0502
+16154,3103615.0,1275,linden boulevard,11212,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3047180001.0,-73.911699,40.654161,317.0,42.0,89000.0,bk1704
+16155,3105176.0,660,east 98th street,11236,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3047570001.0,-73.910287,40.653644,317.0,42.0,92800.0,bk1704
+16156,3106612.0,728,east new york avenue,11203,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3047950016.0,-73.938667,40.662306,309.0,40.0,87401.0,bk0902
+16157,3114603.0,580,flatbush avenue,11225,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3050260100.0,-73.960577,40.659576,309.0,40.0,79802.0,bk0902
+16158,3114604.0,590,flatbush avenue,11225,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3050260132.0,-73.960552,40.659126,309.0,40.0,79802.0,bk0902
+16159,3115913.0,160,parkside avenue,11226,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3050530018.0,-73.962911,40.654469,314.0,40.0,50804.0,bk1401
+16160,3116130.0,416,ocean ave,11226,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3050610040.0,-73.961521,40.652714,314.0,40.0,50804.0,bk1401
+16161,3116307.0,10,stratford road,11218,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3050710006.0,-73.969599,40.648462,314.0,40.0,50600.0,bk1402
+16162,3116661.0,123,linden boulevard,11226,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3050840084.0,-73.954227,40.652415,317.0,40.0,82200.0,bk1701
+16163,3117135.0,65,east 19th street,11226,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3051000091.0,-73.961827,40.647991,314.0,40.0,51002.0,bk1401
+16164,3121396.0,1169,ocean avenue,11230,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3052410018.0,-73.957922,40.633876,314.0,45.0,76600.0,bk1401
+16165,3124302.0,136,ocean parkway,11218,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3053280023.0,-73.97507,40.646861,312.0,39.0,50002.0,bk1203
+16166,3124349.0,135,ocean parkway,11218,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3053290072.0,-73.974523,40.647121,312.0,40.0,50402.0,bk1203
+16167,3124635.0,303,beverly road,11218,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3053360082.0,-73.977169,40.642974,312.0,39.0,48800.0,bk1203
+16168,3125490.0,615,avenue c,11218,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3053580041.0,-73.973091,40.640981,312.0,39.0,49400.0,bk1203
+16169,3126159.0,370,ocean parkway,11218,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3053740021.0,-73.973462,40.639913,312.0,39.0,48800.0,bk1203
+16170,3126839.0,455,ocean parkway,11218,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3053900074.0,-73.972966,40.637415,312.0,39.0,49000.0,bk1203
+16171,3127822.0,680,ocean parkway,11230,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3054200050.0,-73.971938,40.631868,314.0,40.0,48000.0,bk1402
+16172,3131068.0,1170,ocean parkway,11230,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3054951018.0,-73.969713,40.620125,312.0,44.0,44800.0,bk1204
+16173,3144193.0,260,65th street,11220,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3058250001.0,-74.024426,40.639829,310.0,47.0,2200.0,bk0702
+16174,3144194.0,350,65th street,11220,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3058260001.0,-74.022455,40.638643,310.0,47.0,7000.0,bk1001
+16175,3153886.0,8901,shore road,11209,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3060580012.0,-74.040648,40.62316,310.0,47.0,5000.0,bk1001
+16176,3157780.0,7101,16 avenue,11204,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3061810008.0,-73.998534,40.618504,311.0,43.0,26200.0,bk1101
+16177,3168773.0,8800,20th avenue,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3064410001.0,-74.002355,40.600666,311.0,47.0,28200.0,bk1102
+16178,3170043.0,8855,bay parkway,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3064710090.0,-73.999125,40.596812,311.0,47.0,29400.0,bk1103
+16179,3170453.0,870,ocean parkway,11230,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3065080006.0,-73.971057,40.627218,312.0,40.0,46201.0,bk1402
+16180,3172890.0,1360,ocean parkway,11230,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3065680033.0,-73.968858,40.615623,312.0,44.0,44400.0,bk1204
+16181,3180726.0,1740,ocean avenue,11230,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3067390019.0,-73.955251,40.619626,314.0,44.0,53800.0,bk1403
+16182,3184124.0,2350,ocean avenue,11229,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3068250037.0,-73.952409,40.604586,315.0,48.0,56000.0,bk1502
+16183,3187596.0,2424,cropsey avenue,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3069270060.0,-73.994804,40.593993,311.0,47.0,30400.0,bk1103
+16184,3187689.0,2652,cropsey avenue,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3069350001.0,-73.990408,40.588967,313.0,47.0,31401.0,bk1301
+16185,3188894.0,2832,west 23rd street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070150015.0,-73.990378,40.57762,313.0,47.0,32600.0,bk1302
+16186,3189511.0,2950,west 35 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070460022.0,-74.000493,40.573838,313.0,47.0,34200.0,bk1302
+16187,3189543.0,2945,west 23rd street,11224,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070570012.0,-73.989885,40.575103,313.0,47.0,32600.0,bk1302
+16188,3189556.0,2007,surf ave,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,03/11/2024,0.0,3070590026.0,-73.986991,40.574792,313.0,47.0,32600.0,bk1302
+16189,3196066.0,2650,ocean parkway,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072380115.0,-73.966438,40.585466,313.0,47.0,37401.0,bk1301
+16190,3196577.0,2940,west 5th street,11224,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072730050.0,-73.97253,40.577628,313.0,48.0,35400.0,bk1302
+16191,3196582.0,2940,ocean parkway,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072740020.0,-73.967838,40.579373,313.0,48.0,35602.0,bk1302
+16192,3196585.0,3000,ocean parkway,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072740035.0,-73.968383,40.576998,313.0,48.0,35602.0,bk1302
+16193,3196586.0,2915,west 5th street,11224,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072740060.0,-73.972115,40.578874,313.0,48.0,35602.0,bk1302
+16194,3203204.0,2885,ocean ave,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3074220136.0,-73.949833,40.591133,315.0,48.0,59404.0,bk1503
+16195,3205952.0,3215,avenue h,11210,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3075600001.0,-73.945371,40.631801,317.0,45.0,78602.0,bk1702
+16196,3206459.0,1655,flatbush avenue,11210,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3075790010.0,-73.944757,40.630096,318.0,45.0,77600.0,bk1801
+16197,3245026.0,40,brighton first road,11235,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3086800001.0,-73.966562,40.57579,313.0,48.0,36001.0,bk1303
+16198,3245104.0,500,brightwater court,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3086900091.0,-73.962217,40.575745,313.0,48.0,36002.0,bk1303
+16199,3245130.0,3161,brighton 6th street,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3086930012.0,-73.961105,40.575657,313.0,48.0,36002.0,bk1303
+16200,3245696.0,65,oriental blvd,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3087190038.0,-73.953411,40.576831,315.0,48.0,61004.0,bk1303
+16201,3245726.0,1311,brightwater avenue,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3087210375.0,-73.955388,40.575682,313.0,48.0,61002.0,bk1303
+16202,3247163.0,4750,bedford avenue,11235,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3087820034.0,-73.944023,40.586077,315.0,48.0,60000.0,bk1503
+16203,3251647.0,100,north portland avenue,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,03/11/2024,0.0,3020390101.0,-73.976232,40.695268,302.0,35.0,2901.0,bk0203
+16204,3251969.0,10,amboy street,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3034940010.0,-73.914821,40.670286,316.0,41.0,90200.0,bk1602
+16205,3255603.0,2,metrotech center,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001480007.0,-73.985695,40.693727,302.0,33.0,1100.0,bk0202
+16206,3256787.0,420,64th street,11220,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3058187501.0,-74.02008,40.638152,307.0,38.0,12200.0,bk0703
+16207,3256798.0,115,96th street,11209,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3061207501.0,-74.037377,40.61608,310.0,47.0,5400.0,bk1001
+16208,3257103.0,2790,west 5 street,11224,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3072500001.0,-73.971675,40.58034,313.0,47.0,35400.0,bk1302
+16209,3257105.0,2790,west 5 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072500001.0,-73.971675,40.58034,313.0,47.0,35400.0,bk1302
+16210,3259642.0,2828,west 28th street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070110011.0,-73.9946,40.57703,313.0,47.0,32800.0,bk1302
+16211,3319418.0,1,metrotech center,11201,brooklyn,active,4.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001470004.0,-73.987227,40.693463,302.0,33.0,1100.0,bk0202
+16212,3319505.0,4,metrotech center,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020590001.0,-73.98369,40.693652,302.0,33.0,1502.0,bk0202
+16213,3319931.0,2955,shell road,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072697501.0,-73.97615,40.580533,313.0,47.0,34800.0,bk1302
+16214,3320628.0,601,surf avenue,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072797501.0,-73.975788,40.5752,313.0,48.0,35400.0,bk1302
+16215,3320736.0,2765,west 5 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072530001.0,-73.971538,40.580708,313.0,48.0,35601.0,bk1302
+16216,3320750.0,2814,west 8 street,11224,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3072680001.0,-73.97628,40.579117,313.0,48.0,35000.0,bk1302
+16217,3321111.0,2740,cropsey ave,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3069370048.0,-73.989184,40.587446,313.0,47.0,31401.0,bk1301
+16218,3321615.0,2839,west 33 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070070001.0,-73.999849,40.576306,313.0,47.0,32800.0,bk1302
+16219,3321766.0,2951-53,west 33rd street,11224,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070480015.0,-73.999327,40.573698,313.0,47.0,34200.0,bk1302
+16220,3321771.0,2940,west 31 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070490015.0,-73.997372,40.57448,313.0,47.0,34200.0,bk1302
+16221,3321834.0,2930,west 30th street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070500001.0,-73.996127,40.573621,313.0,47.0,34200.0,bk1302
+16222,3321866.0,456,dekalb ave,11205,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019380001.0,-73.958928,40.690498,303.0,36.0,23300.0,bk0301
+16223,3321875.0,345,clinton avenue,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019440004.0,-73.967689,40.687542,302.0,35.0,19700.0,bk0204
+16224,3322037.0,105,ashland place,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020680001.0,-73.979103,40.693119,302.0,35.0,3101.0,bk0203
+16225,3322042.0,3020,surf ave,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070670001.0,-73.996404,40.572765,313.0,47.0,34000.0,bk1302
+16226,3322051.0,3031,west 25th street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070700001.0,-73.991613,40.572833,313.0,47.0,35200.0,bk1302
+16227,3322157.0,2250,west 11 street,11223,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3071370001.0,-73.981572,40.592702,313.0,47.0,38200.0,bk1301
+16228,3322379.0,201,clinton avenue,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3019020001.0,-73.968566,40.691961,302.0,35.0,19500.0,bk0204
+16229,3322382.0,209,clinton avenue,11205,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3019020001.0,-73.968505,40.691659,302.0,35.0,19500.0,bk0204
+16230,3323171.0,541,wythe avenue,11249,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021660001.0,-73.966875,40.705937,301.0,34.0,54500.0,bk0103
+16231,3323300.0,198,bond street,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3003920001.0,-73.987413,40.683171,306.0,39.0,7100.0,bk0601
+16232,3323704.0,82,dwight street,11231,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3005570001.0,-74.008908,40.676142,306.0,38.0,8500.0,bk0601
+16233,3324011.0,875,pennsylvania avenue,11207,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3043690001.0,-73.888961,40.656383,305.0,42.0,110400.0,bk0503
+16234,3324228.0,207,prospect park southwest,11218,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3052877501.0,-73.972585,40.652256,307.0,39.0,50401.0,bk0701
+16235,3324250.0,921,myrtle ave,11206,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3017400001.0,-73.944879,40.695886,303.0,36.0,25902.0,bk0301
+16236,3324263.0,12205,flatlands avenue,11207,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3044157501.0,-73.883643,40.653902,305.0,42.0,107800.0,bk0503
+16237,3324270.0,12399,flatlands avenue,11207,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3044237501.0,-73.87635,40.657029,305.0,42.0,107800.0,bk0503
+16238,3324294.0,725,stanley ave,11207,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3043550001.0,-73.881873,40.660238,305.0,42.0,111000.0,bk0503
+16239,3324609.0,1414,bergen street,11213,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3013520001.0,-73.938042,40.675428,308.0,36.0,34300.0,bk0802
+16240,3324614.0,1191,park place,11213,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3013520080.0,-73.938102,40.672777,308.0,36.0,34300.0,bk0802
+16241,3324616.0,1008,st. marks ave,11213,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3013520080.0,-73.938469,40.67458,308.0,36.0,34300.0,bk0802
+16242,3324663.0,249,thomas s boyland street,11233,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3014340001.0,-73.913754,40.675797,316.0,41.0,36501.0,bk1601
+16243,3324696.0,309,mcdougal street,11233,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3015290001.0,-73.908289,40.680596,316.0,37.0,36900.0,bk1601
+16244,3324730.0,10,lewis ave,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3015800001.0,-73.93809,40.698045,303.0,36.0,28502.0,bk0302
+16245,3324970.0,953,dekalb ave,11221,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3015970001.0,-73.937427,40.692986,303.0,36.0,28100.0,bk0302
+16246,3325168.0,311,patchen ave,11233,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,03/11/2024,0.0,3016880001.0,-73.925559,40.680567,303.0,41.0,38100.0,bk0302
+16247,3325172.0,329,patchen ave,11233,brooklyn,active,1.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,03/11/2024,0.0,3016880001.0,-73.925409,40.679787,303.0,41.0,38100.0,bk0302
+16248,3325906.0,111,bridge street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000680001.0,-73.984784,40.701003,302.0,35.0,2300.0,bk0202
+16249,3325909.0,224,york street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000710001.0,-73.981949,40.701313,302.0,35.0,2300.0,bk0202
+16250,3325912.0,225,adams street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000860011.0,-73.988705,40.697007,302.0,33.0,1300.0,bk0202
+16251,3325914.0,195,adams street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000860011.0,-73.988636,40.698196,302.0,33.0,1300.0,bk0202
+16252,3325918.0,237,nassau street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000900001.0,-73.982203,40.698343,302.0,35.0,2300.0,bk0202
+16253,3326019.0,75,henry street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002170001.0,-73.992452,40.698597,302.0,33.0,100.0,bk0201
+16254,3326546.0,265,livonia avenue,11212,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3035760001.0,-73.908202,40.66267,316.0,41.0,91200.0,bk1602
+16255,3326603.0,1381,linden blvd,11212,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3036330001.0,-73.908974,40.654436,316.0,42.0,92200.0,bk1602
+16256,3326604.0,1407,linden boulevard,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3036340001.0,-73.907568,40.654643,316.0,42.0,92200.0,bk1602
+16257,3326948.0,108,christopher avenue,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3037090001.0,-73.906201,40.671012,316.0,37.0,90800.0,bk1602
+16258,3327013.0,157,belmont ave,11212,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3037270001.0,-73.90435,40.669328,316.0,41.0,90800.0,bk1602
+16259,3327711.0,451,clarkson avenue,11203,brooklyn,active,7.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3048290001.0,-73.944602,40.65576,309.0,40.0,80800.0,bk0902
+16260,3327971.0,54,boerum street,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3030770001.0,-73.947161,40.705512,301.0,34.0,49100.0,bk0104
+16261,3328045.0,393,dumont ave,11212,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3037770001.0,-73.904901,40.664767,316.0,41.0,91000.0,bk1602
+16262,3328133.0,393-399,powell street,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3037970001.0,-73.902724,40.66482,316.0,42.0,91000.0,bk1602
+16263,3329431.0,269,gold street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001220010.0,-73.983162,40.696625,302.0,33.0,1501.0,bk0202
+16264,3329438.0,11,hoyt street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001577501.0,-73.985327,40.690216,302.0,33.0,3700.0,bk0202
+16265,3329441.0,9,bond st,11201,brooklyn,not active,0.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001600007.0,-73.983164,40.689376,302.0,33.0,3700.0,bk0202
+16266,3329443.0,250,livingston street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001650022.0,-73.984228,40.689033,302.0,33.0,3700.0,bk0202
+16267,3329459.0,188,montague st,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002500036.0,-73.991504,40.694007,302.0,33.0,900.0,bk0201
+16268,3331517.0,2164,78th street,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3062640029.0,-73.990013,40.606976,311.0,43.0,27000.0,bk1101
+16269,3332518.0,1,hoyt street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001570009.0,-73.98519,40.690419,302.0,33.0,3700.0,bk0202
+16270,3333397.0,315,sutter ave,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3035260021.0,-73.90821,40.667437,316.0,41.0,90600.0,bk1602
+16271,3334963.0,190,willoughby street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020850001.0,-73.980152,40.691958,302.0,35.0,3101.0,bk0203
+16272,3335094.0,470,vanderbilt avenue,11238,brooklyn,not active,0.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020090001.0,-73.967824,40.683049,302.0,35.0,19900.0,bk0204
+16273,3335129.0,63,flushing avenue,11205,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020230001.0,-73.974986,40.69802,302.0,33.0,54300.0,bk0261
+16274,3335143.0,141,flushing avenue,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020230001.0,-73.970987,40.697858,302.0,33.0,54300.0,bk0261
+16275,3335231.0,24,monument walk,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020340001.0,-73.979531,40.695491,302.0,35.0,2901.0,bk0203
+16276,3335261.0,79,north oxford walk,11205,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020410001.0,-73.97511,40.695553,302.0,35.0,18501.0,bk0203
+16277,3335883.0,225,cadman plaza east,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3000850100.0,-73.989946,40.697518,302.0,33.0,1300.0,bk0202
+16278,3335884.0,25,chapel street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001180006.0,-73.986015,40.697254,302.0,33.0,1300.0,bk0202
+16279,3335892.0,300,jay street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,03/11/2024,0.0,3001280001.0,-73.98714,40.695563,302.0,33.0,1300.0,bk0202
+16280,3335899.0,422,fulton street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001567502.0,-73.985951,40.690891,302.0,33.0,3700.0,bk0202
+16281,3335922.0,30,columbia heights,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002080002.0,-73.99468,40.701797,302.0,33.0,100.0,bk0201
+16282,3335928.0,100,henry street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002310001.0,-73.992888,40.697754,302.0,33.0,501.0,bk0201
+16283,3336056.0,272,wyckoff street,11217,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3003940001.0,-73.984081,40.68342,306.0,39.0,12700.0,bk0601
+16284,3336073.0,426,baltic street,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3004040001.0,-73.988552,40.683555,306.0,39.0,7100.0,bk0601
+16285,3336512.0,2630,cropsey avenue,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3069330055.0,-73.990887,40.589563,313.0,47.0,31401.0,bk1301
+16286,3337062.0,215,cozine avenue,11207,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3043930001.0,-73.884151,40.655517,305.0,42.0,110600.0,bk0503
+16287,3337264.0,2483,west 16th street,11214,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3069190001.0,-73.985357,40.586911,313.0,47.0,30800.0,bk1301
+16288,3337274.0,2601,ocean parkway,11235,brooklyn,active,2.0,self-reported annual inspection,2023.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2023.0,03/11/2024,0.0,3072390001.0,-73.966168,40.586552,313.0,48.0,37000.0,bk1301
+16289,3337808.0,506,6th street,11215,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3010860001.0,-73.979237,40.668293,306.0,39.0,15300.0,bk0602
+16290,3337867.0,1185,carroll street,11225,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3012830001.0,-73.94965,40.667128,309.0,35.0,31900.0,bk0901
+16291,3338415.0,25,boerum street,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3030580001.0,-73.948755,40.705359,301.0,34.0,51100.0,bk0104
+16292,3338423.0,29,moore street,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3030780001.0,-73.945118,40.703513,301.0,34.0,49100.0,bk0104
+16293,3338433.0,24,humbolt street,11206,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3031290001.0,-73.9406,40.702194,301.0,34.0,48900.0,bk0104
+16294,3338887.0,385,flatbush avenue ext,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020857501.0,-73.981375,40.690295,302.0,35.0,3101.0,bk0203
+16295,3339433.0,1548,east new york avenue,11212,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3034890001.0,-73.911145,40.672152,316.0,41.0,90600.0,bk1602
+16296,3340264.0,2675,west 36th street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3069620011.0,-74.002707,40.579931,313.0,47.0,33000.0,bk1302
+16297,3341583.0,492,henry street,11231,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3003317501.0,-73.999236,40.684516,306.0,39.0,6300.0,bk0601
+16298,3341976.0,255,havemeyer street,11211,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021410019.0,-73.959859,40.707793,301.0,34.0,52500.0,bk0102
+16299,3345707.0,800,poly place,11209,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3061530001.0,-74.02399,40.609263,310.0,50.0,16400.0,bk1061
+16300,3346312.0,33,university plaza,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020850025.0,-73.98144,40.69071,302.0,35.0,3101.0,bk0203
+16301,3346512.0,205,state street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002710001.0,-73.990884,40.689972,302.0,33.0,900.0,bk0201
+16302,3347227.0,20,grand army plaza oval,11217,brooklyn,not active,0.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3200089999.0,-73.969834,40.672644,355.0,39.0,15900.0,bk0602
+16303,3347736.0,330,jay street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001407502.0,-73.987198,40.694495,302.0,33.0,1100.0,bk0202
+16304,3348849.0,2,hanson place,11217,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020017501.0,-73.977728,40.685093,302.0,35.0,3500.0,bk0203
+16305,3385303.0,2923-49,west 28 street,11224,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3070530014.0,-73.994204,40.575037,313.0,47.0,34200.0,bk1302
+16306,3391008.0,1,northside piers,11249,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3023407501.0,-73.964188,40.719221,301.0,33.0,55500.0,bk0102
+16307,3391840.0,80,dekalb ave,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020940010.0,-73.97972,40.689864,302.0,35.0,3300.0,bk0203
+16308,3392184.0,365,bridge street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020587501.0,-73.985255,40.69245,302.0,33.0,1502.0,bk0202
+16309,3392968.0,306,gold street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001337501.0,-73.983271,40.694978,302.0,35.0,1501.0,bk0202
+16310,3392969.0,345,adams street,11201,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001407503.0,-73.988915,40.6934,302.0,33.0,1100.0,bk0202
+16311,3393008.0,360,furman street,11201,brooklyn,not active,0.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002457501.0,-73.999488,40.693398,302.0,33.0,700.0,bk0201
+16312,3393888.0,343,gold street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020490002.0,-73.983289,40.694226,302.0,35.0,1502.0,bk0202
+16313,3395389.0,1,eastern parkway,11238,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011727502.0,-73.968474,40.673077,308.0,35.0,20700.0,bk0801
+16314,3396962.0,138,willoughby street,11201,brooklyn,active,5.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001497502.0,-73.983135,40.692069,302.0,33.0,1502.0,bk0202
+16315,3397012.0,111,lawrence street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001480001.0,-73.986228,40.692848,302.0,33.0,1100.0,bk0202
+16316,3397446.0,22,north 6th street,11249,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3023327502.0,-73.962813,40.720077,301.0,33.0,55500.0,bk0102
+16317,3397571.0,505,court street,11231,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3004767501.0,-73.999156,40.675574,306.0,39.0,7700.0,bk0601
+16318,3397861.0,445,albee square west,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001497501.0,-73.983452,40.690833,302.0,33.0,1502.0,bk0202
+16319,3398156.0,620,atlantic avenue,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011180001.0,-73.975691,40.683454,302.0,35.0,12902.0,bk0602
+16320,3398355.0,336,flatbush avenue extension,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001497501.0,-73.982183,40.691308,302.0,33.0,1502.0,bk0202
+16321,3398591.0,461,dean street,11217,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011180002.0,-73.975306,40.681736,306.0,35.0,12902.0,bk0602
+16322,3418263.0,333,schermerhorn street,11217,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001670013.0,-73.981243,40.687144,302.0,33.0,3700.0,bk0202
+16323,3420828.0,309,gold street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001340001.0,-73.983242,40.695134,302.0,35.0,1501.0,bk0202
+16324,3421378.0,1,clinton street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3002397501.0,-73.991367,40.696154,302.0,33.0,502.0,bk0201
+16325,3422087.0,21,india street,11222,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3025307502.0,-73.960195,40.731807,301.0,33.0,56302.0,bk0101
+16326,3422112.0,33,bond street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001667502.0,-73.983658,40.688643,302.0,33.0,3700.0,bk0202
+16327,3424451.0,100,willoughby street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001457502.0,-73.9847,40.692126,302.0,33.0,1502.0,bk0202
+16328,3424470.0,250,ashland place,11217,brooklyn,active,3.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021077501.0,-73.978336,40.687723,302.0,35.0,3300.0,bk0203
+16329,3424477.0,540,fulton street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001617502.0,-73.981228,40.689011,302.0,33.0,3700.0,bk0202
+16330,3424478.0,336,flatbush avenue extension,11201,brooklyn,not active,0.0,other,2023.0,0,0,0,2023.0,0,0.0,3001497501.0,-73.982183,40.691308,302.0,33.0,1502.0,bk0202
+16331,3424517.0,86,fleet place,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020617501.0,-73.981771,40.693059,302.0,35.0,3101.0,bk0203
+16332,3425676.0,420,kent avenue,11249,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3021340056.0,-73.968525,40.709915,301.0,33.0,54700.0,bk0102
+16333,3426023.0,120,nassau street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001077501.0,-73.98666,40.698486,302.0,33.0,1300.0,bk0202
+16334,3426190.0,424,albee square,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001460043.0,-73.983463,40.691069,302.0,33.0,1502.0,bk0202
+16335,3426300.0,18,sixth avenue,11217,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3011187502.0,-73.973885,40.68251,302.0,35.0,12902.0,bk0602
+16336,3426373.0,196,willoughby street,11201,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020857502.0,-73.979965,40.69195,302.0,35.0,3101.0,bk0203
+16337,3426510.0,1,eagle street,11222,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3024720021.0,-73.961023,40.73458,301.0,33.0,56302.0,bk0101
+16338,3426645.0,45,hoyt street,11201,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3001657504.0,-73.985973,40.689269,302.0,33.0,3700.0,bk0202
+16339,3426946.0,1,dock 72 way,11251,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3020230001.0,-73.972176,40.699809,302.0,33.0,54300.0,bk0261
+16340,3428862.0,227,west street,11222,brooklyn,active,2.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3024720021.0,-73.960128,40.735084,301.0,33.0,56302.0,bk0101
+16341,3429566.0,60,wharf drive,11222,brooklyn,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,3025700040.0,-73.960205,40.7266,301.0,33.0,56100.0,bk0101

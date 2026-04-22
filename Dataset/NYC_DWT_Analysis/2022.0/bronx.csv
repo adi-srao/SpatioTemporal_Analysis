@@ -1,0 +1,317 @@
+,BIN,House #,Street Name,Zip_code,Borough,Status,Number of DWT,Activity_Type,Activity_Year,Violation_Code,Law_Section,Violation_Text,Compliance_Year,Date_of_Occurrence,Summons_Number,BBL,Longitude,Latitude,Community_Board,Council_District,Census_Tract,NTA_Code
+564,2092671.0,2070,seward avenue,10473,bronx,active,2.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2020.0,11/30/2022,871283335.0,2035670001.0,-73.852648,40.820559,209.0,18.0,7400.0,bx0903
+565,2092671.0,2070,seward avenue,10473,bronx,active,2.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2021.0,11/30/2022,871283344.0,2035670001.0,-73.852648,40.820559,209.0,18.0,7400.0,bx0903
+566,2015450.0,3970,hillman avenue,10463,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2019.0,11/30/2022,871283353.0,2032520117.0,-73.891107,40.883054,208.0,11.0,28100.0,bx0801
+567,2015450.0,3970,hillman avenue,10463,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2020.0,11/30/2022,871283362.0,2032520117.0,-73.891107,40.883054,208.0,11.0,28100.0,bx0801
+568,2015450.0,3970,hillman avenue,10463,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2021.0,11/30/2022,871283371.0,2032520117.0,-73.891107,40.883054,208.0,11.0,28100.0,bx0801
+569,2000862.0,369,east  149 street,10455,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2019.0,11/30/2022,871283380.0,2023280035.0,-73.91885,40.816384,201.0,17.0,6500.0,bx0102
+570,2000862.0,369,east  149 street,10455,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2020.0,11/30/2022,871283390.0,2023280035.0,-73.91885,40.816384,201.0,17.0,6500.0,bx0102
+571,2000862.0,369,east  149 street,10455,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2021.0,11/30/2022,871283409.0,2023280035.0,-73.91885,40.816384,201.0,17.0,6500.0,bx0102
+586,2101571.0,790,concourse village west,10451,bronx,active,2.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2019.0,11/30/2022,871283546.0,2024439080.0,-73.922634,40.824343,204.0,16.0,6100.0,bx0401
+587,2101571.0,790,concourse village west,10451,bronx,active,2.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2020.0,11/30/2022,871283555.0,2024439080.0,-73.922634,40.824343,204.0,16.0,6100.0,bx0401
+588,2101571.0,790,concourse village west,10451,bronx,active,2.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2021.0,11/30/2022,871283564.0,2024439080.0,-73.922634,40.824343,204.0,16.0,6100.0,bx0401
+589,2097319.0,555,east  191 street,10458,bronx,active,1.0,nyc health department audit & inspection,2022.0,ah7e,nychc 141.07(c),failure to provide results of drinking water tank inspection within five business days after receipt of department’s request,2021.0,11/30/2022,871283573.0,2032730001.0,-73.885921,40.8597,206.0,15.0,39700.0,bx0603
+592,2004223.0,530,east  169 street,10456,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871287331.0,2026100012.0,-73.904676,40.832613,203.0,16.0,14500.0,bx0302
+889,2015735.0,2865,kingsbridge terrace,10463,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292070.0,2032560156.0,-73.902631,40.874317,208.0,14.0,27300.0,bx0801
+890,2017320.0,3131,grand concourse,10468,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292080.0,2033110001.0,-73.886307,40.87512,207.0,11.0,41100.0,bx0702
+891,2017430.0,2665,grand concourse,10468,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292099.0,2033140065.0,-73.894132,40.866413,207.0,14.0,40304.0,bx0702
+892,2018271.0,3530,wayne avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292108.0,2033440052.0,-73.877444,40.881144,207.0,11.0,43102.0,bx0703
+893,2027509.0,1340,stratford avenue,10472,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292117.0,2038670023.0,-73.876265,40.832526,209.0,17.0,6200.0,bx0901
+894,2047168.0,1950,hutchinson river parkway,10461,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292126.0,2042300015.0,-73.835612,40.851353,210.0,13.0,30000.0,bx1003
+944,2083245.0,2500,johnson avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292620.0,2057160500.0,-73.917861,40.877162,208.0,11.0,29302.0,bx0803
+945,2083678.0,3411,irwin avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292630.0,2057590573.0,-73.906041,40.884119,208.0,11.0,28500.0,bx0802
+946,2084130.0,3220,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292649.0,2057900001.0,-73.913805,40.885036,208.0,11.0,29700.0,bx0803
+947,2092386.0,3,west farms square plaza,10460,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292658.0,2031300020.0,-73.881121,40.841106,206.0,15.0,36100.0,bx0601
+948,2092431.0,1,fordham hill oval,10468,bronx,active,2.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292667.0,2032260053.0,-73.908658,40.863983,207.0,14.0,26100.0,bx0701
+949,2094694.0,100,west kingsbridge road,10468,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292676.0,2032200037.0,-73.901269,40.868322,207.0,14.0,26300.0,bx0701
+950,2097361.0,1825,eastchester road,10461,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292685.0,2041170001.0,-73.844843,40.850312,211.0,13.0,28600.0,bx1102
+951,2101907.0,6,west farms square plaza,10460,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292694.0,2031360001.0,-73.880618,40.841627,206.0,15.0,36100.0,bx0601
+952,2123941.0,5640,netherland avenue,10471,bronx,active,1.0,self-reported annual inspection,2022.0,ah7a,24rcny 31-02(a),failure to submit report of previous year’s inspection results by january 15 of the following year,2022.0,02/10/2023,871292703.0,2059530550.0,-73.905957,40.905599,208.0,11.0,32300.0,bx0803
+10681,2000784.0,2417,3 avenue,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023190100.0,-73.930665,40.808492,201.0,8.0,5100.0,bx0101
+10682,2000856.0,366,east 150 street,10455,bronx,active,1.0,nyc health department inspection,2022.0,0,0,0,2019.0,0,0.0,2023280012.0,-73.918539,40.817031,201.0,17.0,6500.0,bx0102
+10683,2000856.0,366,east 150 street,10455,bronx,active,1.0,nyc health department inspection,2022.0,0,0,0,2020.0,0,0.0,2023280012.0,-73.918539,40.817031,201.0,17.0,6500.0,bx0102
+10684,2000856.0,366,east 150 street,10455,bronx,active,1.0,nyc health department inspection,2022.0,0,0,0,2021.0,0,0.0,2023280012.0,-73.918539,40.817031,201.0,17.0,6500.0,bx0102
+10685,2000856.0,366,east 150 street,10455,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023280012.0,-73.918539,40.817031,201.0,17.0,6500.0,bx0102
+10686,2000862.0,369,east  149 street,10455,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023280035.0,-73.91885,40.816384,201.0,17.0,6500.0,bx0102
+10687,2000898.0,332,east 149 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023300034.0,-73.920508,40.816797,201.0,17.0,6500.0,bx0102
+10688,2000933.0,349,east 149 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023317501.0,-73.919959,40.81667,201.0,17.0,6500.0,bx0102
+10689,2001038.0,475,grand concourse,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023460029.0,-73.927599,40.817954,201.0,17.0,6301.0,bx0401
+10690,2001080.0,385,gerard avenue,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023490090.0,-73.930165,40.816613,201.0,8.0,6301.0,bx0401
+10691,2002160.0,1160,teller avenue,10456,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024300045.0,-73.912013,40.831568,204.0,16.0,17701.0,bx0401
+10692,2002295.0,1175,findlay avenue,10456,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024350025.0,-73.912652,40.832271,204.0,16.0,17500.0,bx0401
+10693,2002457.0,260,east 161 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024430100.0,-73.918814,40.825685,204.0,16.0,6100.0,bx0401
+10694,2002809.0,930,grand concourse,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024610007.0,-73.921838,40.828347,204.0,16.0,18301.0,bx0401
+10695,2002822.0,1000,grand concourse,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024610090.0,-73.921074,40.82979,204.0,16.0,18301.0,bx0401
+10696,2002823.0,1020,grand concourse,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024610094.0,-73.920785,40.830314,204.0,16.0,18301.0,bx0401
+10697,2002869.0,851,grand concourse,10451,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024680001.0,-73.923102,40.826048,204.0,16.0,6301.0,bx0401
+10698,2002878.0,1001,grand concourse,10452,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024710050.0,-73.921096,40.829796,204.0,16.0,19500.0,bx0401
+10699,2003054.0,1001,jerome avenue,10452,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2025040141.0,-73.926493,40.831367,204.0,16.0,18900.0,bx0402
+10700,2003981.0,780,east 134 street,10454,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2025850001.0,-73.912901,40.801511,201.0,8.0,1902.0,bx0101
+10701,2005939.0,1231,lafayette avenue,10474,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2027390015.0,-73.890277,40.816486,202.0,17.0,9301.0,bx0201
+10702,2006150.0,1106,hoe avenue,10459,bronx,active,1.0,nyc health department inspection,2022.0,0,0,0,2019.0,0,0.0,2027510003.0,-73.890815,40.825577,202.0,17.0,12701.0,bx0202
+10703,2006150.0,1106,hoe avenue,10459,bronx,active,1.0,nyc health department inspection,2022.0,0,0,0,2020.0,0,0.0,2027510003.0,-73.890815,40.825577,202.0,17.0,12701.0,bx0202
+10704,2006150.0,1106,hoe avenue,10459,bronx,active,1.0,nyc health department inspection,2022.0,0,0,0,2021.0,0,0.0,2027510003.0,-73.890815,40.825577,202.0,17.0,12701.0,bx0202
+10705,2006150.0,1106,hoe avenue,10459,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2027510003.0,-73.890815,40.825577,202.0,17.0,12701.0,bx0202
+10706,2006555.0,750,faile street,10474,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2027630227.0,-73.886849,40.815923,202.0,17.0,11701.0,bx0201
+10707,2006555.0,750,faile street,10474,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2019.0,0,0.0,2027630227.0,-73.886849,40.815923,202.0,17.0,11701.0,bx0201
+10708,2006555.0,750,faile street,10474,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2020.0,0,0.0,2027630227.0,-73.886849,40.815923,202.0,17.0,11701.0,bx0201
+10709,2006555.0,750,faile street,10474,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2021.0,0,0.0,2027630227.0,-73.886849,40.815923,202.0,17.0,11701.0,bx0201
+10710,2007694.0,2021,grand concourse,10453,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028087502.0,-73.904077,40.851861,205.0,14.0,23501.0,bx0502
+10711,2007859.0,1650,grand concourse,10457,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028230001.0,-73.911831,40.843469,204.0,15.0,22703.0,bx0403
+10712,2007862.0,1700,grand concourse,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028230046.0,-73.911486,40.844432,204.0,15.0,22703.0,bx0403
+10713,2007876.0,1770,grand concourse,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028250017.0,-73.909897,40.84605,205.0,14.0,22901.0,bx0502
+10714,2009182.0,1655,undercliff avenue,10453,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028800115.0,-73.921759,40.849424,205.0,14.0,20501.0,bx0501
+10715,2009189.0,1750,sedgwick avenue,10453,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028800153.0,-73.921508,40.851186,205.0,16.0,20502.0,bx0501
+10716,2009910.0,1910,arthur avenue,10457,bronx,not active,0.0,other,2022.0,0,0,0,2022.0,0,0.0,2029477501.0,-73.8935,40.845391,206.0,15.0,36901.0,bx0602
+10717,2011826.0,555,east tremont avenue,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2030600032.0,-73.895074,40.846518,206.0,15.0,37504.0,bx0602
+10718,2011855.0,2111,lafontaine ave,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2030620021.0,-73.892137,40.850185,206.0,15.0,37504.0,bx0602
+10719,2012652.0,2070,clinton avenue,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2030940014.0,-73.888101,40.847236,206.0,15.0,37100.0,bx0602
+10720,2012955.0,800 east,180 street,10460,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031080008.0,-73.885438,40.846454,206.0,15.0,36501.0,bx0602
+10721,2012997.0,2111,southern blvd,10460,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031110015.0,-73.884177,40.846343,206.0,15.0,36501.0,bx0602
+10722,2013047.0,2375,southern boulevard,10460,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031140052.0,-73.881834,40.852801,206.0,15.0,39300.0,bx0603
+10723,2013061.0,2405,southern boulevard,10458,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031150005.0,-73.881558,40.853773,206.0,15.0,39300.0,bx0603
+10724,2013245.0,1010,east 178 street,10460,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031300100.0,-73.880463,40.841412,206.0,15.0,36100.0,bx0601
+10725,2013284.0,2000,valentine avenue,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031420001.0,-73.900714,40.850099,205.0,15.0,37900.0,bx0502
+10726,2013302.0,1880,valentine avenue,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031420200.0,-73.900907,40.849106,205.0,15.0,37900.0,bx0502
+10727,2013303.0,2100,tiebout avenue,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031430001.0,-73.898903,40.852804,205.0,15.0,37900.0,bx0502
+10728,2013340.0,2332,tiebout avenue,10458,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031430285.0,-73.89677,40.857408,205.0,15.0,38303.0,bx0503
+10729,2014843.0,2550,webb avenue,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032200016.0,-73.903285,40.867407,207.0,14.0,26300.0,bx0701
+10730,2014845.0,2545,university avenue,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032200090.0,-73.902309,40.866698,207.0,14.0,26300.0,bx0701
+10731,2015229.0,3850,sedgwick avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032460056.0,-73.895039,40.882693,208.0,11.0,40900.0,bx0702
+10732,2015403.0,2835,webb avenue,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032500040.0,-73.900756,40.872985,208.0,14.0,26702.0,bx0801
+10733,2015444.0,3400,paul avenue,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032510420.0,-73.889569,40.87719,207.0,11.0,40900.0,bx0702
+10734,2015450.0,3970,hillman avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032520117.0,-73.891107,40.883054,208.0,11.0,28100.0,bx0801
+10735,2015482.0,98,van cortlandt park south,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032520287.0,-73.891625,40.885015,208.0,11.0,28100.0,bx0801
+10736,2015493.0,124,gale place,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032520340.0,-73.892977,40.884999,208.0,11.0,28100.0,bx0801
+10737,2015820.0,3400,fort independence street,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032580073.0,-73.899263,40.880347,208.0,11.0,27900.0,bx0801
+10738,2016020.0,3915,orloff ave,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032630067.0,-73.894426,40.883914,208.0,11.0,27900.0,bx0801
+10739,2016021.0,3900,bailey avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032630085.0,-73.895418,40.885298,208.0,11.0,27900.0,bx0801
+10740,2017787.0,3424,kossuth avenue,10467,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2033270200.0,-73.881571,40.880676,207.0,11.0,42100.0,bx0703
+10741,2018227.0,3411,wayne avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2033430300.0,-73.87795,40.879687,207.0,11.0,42100.0,bx0703
+10742,2022564.0,950,evergreen avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036500001.0,-73.879612,40.822347,209.0,18.0,2800.0,bx0901
+10743,2022624.0,920,metcalf avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036590001.0,-73.871152,40.823477,209.0,18.0,4600.0,bx0902
+10744,2022642.0,950,underhill avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036700001.0,-73.860859,40.824694,209.0,18.0,4200.0,bx0902
+10745,2022645.0,1965,lafayette avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036720001.0,-73.856192,40.822301,209.0,18.0,1600.0,bx0902
+10746,2023553.0,1591,bruckner boulevard,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037170001.0,-73.874792,40.824282,209.0,18.0,4800.0,bx0901
+10747,2024145.0,1210,croes avenue,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037490001.0,-73.870695,40.829726,209.0,18.0,6800.0,bx0901
+10748,2025384.0,1240,morris park avenue,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037780010.0,-73.874874,40.830664,209.0,17.0,6200.0,bx0901
+10749,2025666.0,1041,pugsley avenue,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037880021.0,-73.856386,40.827716,209.0,18.0,4001.0,bx0903
+10750,2025916.0,1966,newbold ave,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037940013.0,-73.859314,40.832295,209.0,18.0,7200.0,bx0903
+10751,2028130.0,1500,noble avenue,10460,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2038950001.0,-73.871497,40.837247,209.0,17.0,21800.0,bx0901
+10752,2045910.0,1730,mulford avenue,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041610001.0,-73.835209,40.846245,210.0,13.0,26601.0,bx1003
+10753,2045913.0,1720,mayflower avenue,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041620002.0,-73.83443,40.845892,210.0,13.0,26601.0,bx1003
+10754,2046141.0,3033,middletown road,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041710024.0,-73.829016,40.844293,210.0,13.0,26602.0,bx1003
+10755,2046201.0,3121,middletown road,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041740024.0,-73.826436,40.845216,210.0,13.0,26602.0,bx1003
+10756,2046332.0,3555,bruckner boulevard,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041780010.0,-73.827481,40.847809,210.0,13.0,26602.0,bx1003
+10757,2048807.0,801,neill avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2042900008.0,-73.864481,40.850331,211.0,13.0,22800.0,bx1101
+10758,2050044.0,2335,boston road,10467,bronx,not active,0.0,other,2022.0,0,0,0,2022.0,0,0.0,2043460058.0,-73.867078,40.860591,211.0,13.0,33000.0,bx1104
+10759,2050046.0,2334,boston road,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2043470007.0,-73.867067,40.860558,211.0,13.0,33000.0,bx1104
+10760,2050046.0,2334,boston road,10467,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2019.0,0,0.0,2043470007.0,-73.867067,40.860558,211.0,13.0,33000.0,bx1104
+10761,2050046.0,2334,boston road,10467,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2020.0,0,0.0,2043470007.0,-73.867067,40.860558,211.0,13.0,33000.0,bx1104
+10762,2050046.0,2334,boston road,10467,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2021.0,0,0.0,2043470007.0,-73.867067,40.860558,211.0,13.0,33000.0,bx1104
+10763,2051242.0,2410,barker avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2044250001.0,-73.869411,40.861793,211.0,15.0,33202.0,bx1104
+10764,2051264.0,2440,olinville avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2044260017.0,-73.868459,40.862179,211.0,15.0,33202.0,bx1104
+10765,2051300.0,2550,olinville avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2044290001.0,-73.868401,40.863941,211.0,15.0,33202.0,bx1104
+10766,2054716.0,3000,bronx park east,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2045430001.0,-73.87053,40.869949,212.0,12.0,33602.0,bx1201
+10767,2054716.0,3000,bronx park east,10467,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2019.0,0,0.0,2045430001.0,-73.87053,40.869949,212.0,12.0,33602.0,bx1201
+10768,2054716.0,3000,bronx park east,10467,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2020.0,0,0.0,2045430001.0,-73.87053,40.869949,212.0,12.0,33602.0,bx1201
+10769,2054716.0,3000,bronx park east,10467,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2021.0,0,0.0,2045430001.0,-73.87053,40.869949,212.0,12.0,33602.0,bx1201
+10770,2056289.0,3260,cruger avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2045990017.0,-73.866171,40.872977,212.0,12.0,37200.0,bx1201
+10771,2057725.0,3511,barnes avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2046590031.0,-73.861649,40.877177,212.0,12.0,38000.0,bx1201
+10772,2068251.0,855,east  233 street,10466,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2050000001.0,-73.852775,40.89194,212.0,11.0,43000.0,bx1203
+10773,2072463.0,3410,de reimer avenue,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2052590016.0,-73.836703,40.879631,212.0,12.0,46209.0,bx1202
+10774,2083215.0,290,west 232 street,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057130107.0,-73.906808,40.881712,208.0,11.0,28900.0,bx0802
+10775,2083244.0,2400,johnson avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057160362.0,-73.918201,40.876816,208.0,11.0,29302.0,bx0803
+10776,2083247.0,2600,netherland avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057220475.0,-73.915679,40.878744,208.0,11.0,29302.0,bx0803
+10777,2083422.0,3135,johnson avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057390257.0,-73.910784,40.882662,208.0,11.0,29700.0,bx0803
+10778,2083458.0,3103,fairfield avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057420120.0,-73.914212,40.883381,208.0,11.0,29700.0,bx0803
+10779,2083471.0,750,kappock street,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057440048.0,-73.919848,40.882137,208.0,11.0,29301.0,bx0803
+10780,2083472.0,2621,palisade avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057450001.0,-73.921164,40.881995,208.0,11.0,29301.0,bx0803
+10781,2083473.0,2727,palisade avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057450012.0,-73.920165,40.883051,208.0,11.0,29301.0,bx0803
+10782,2083479.0,2575,palisade ave,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057450305.0,-73.921631,40.881594,208.0,11.0,29301.0,bx0803
+10783,2083481.0,2601,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057460584.0,-73.918291,40.880741,208.0,11.0,30100.0,bx0803
+10784,2083518.0,735,kappock street,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057500357.0,-73.919747,40.881931,208.0,11.0,30100.0,bx0803
+10785,2083523.0,2995,independence avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057500500.0,-73.91733,40.882914,208.0,11.0,30100.0,bx0803
+10786,2083686.0,3424,kingsbridge avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057600112.0,-73.903711,40.882723,208.0,11.0,28700.0,bx0802
+10787,2084027.0,3800,waldo avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057770772.0,-73.904077,40.887136,208.0,11.0,28500.0,bx0802
+10788,2084162.0,3530,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057950518.0,-73.912248,40.886429,208.0,11.0,29700.0,bx0803
+10789,2084199.0,3718,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057990046.0,-73.910191,40.88836,208.0,11.0,29700.0,bx0803
+10790,2085774.0,3515,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059020193.0,-73.912852,40.886369,208.0,11.0,30701.0,bx0803
+10791,2085775.0,3611,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059030283.0,-73.912142,40.887354,208.0,11.0,30701.0,bx0803
+10792,2085777.0,3755,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059040086.0,-73.909777,40.889213,208.0,11.0,30701.0,bx0803
+10793,2085778.0,3725,henry hudson parkway,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059040100.0,-73.91053,40.888621,208.0,11.0,30701.0,bx0803
+10794,2085798.0,3935,blackstone avenue,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059080210.0,-73.911425,40.890109,208.0,11.0,30701.0,bx0803
+10795,2085807.0,4525,henry hudson parkway,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059090977.0,-73.908487,40.891608,208.0,11.0,30701.0,bx0803
+10796,2085820.0,4705,henry hudson parkway,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059120001.0,-73.908376,40.895547,208.0,11.0,30701.0,bx0803
+10797,2085823.0,4901,henry hudson parkway,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059120091.0,-73.908262,40.896859,208.0,11.0,30701.0,bx0803
+10798,2085871.0,3777,independence avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059190436.0,-73.913036,40.8889,208.0,11.0,30900.0,bx0803
+10799,2085874.0,3671,hudson manor terrace,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059200653.0,-73.91575,40.887821,208.0,11.0,30900.0,bx0803
+10800,2086250.0,5355,henry hudson parkway,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059460052.0,-73.906915,40.900321,208.0,11.0,32300.0,bx0803
+10801,2086319.0,5700,arlington avenue,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059530038.0,-73.906827,40.906656,208.0,11.0,32300.0,bx0803
+10802,2086320.0,5800,arlington avenue,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059530230.0,-73.906568,40.907828,208.0,11.0,32300.0,bx0803
+10803,2086321.0,5900,arlington avenue,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059530240.0,-73.906499,40.908632,208.0,11.0,32300.0,bx0803
+10804,2086808.0,2475,southern boulevard,10458,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2031150021.0,-73.881139,40.855263,206.0,15.0,39300.0,bx0603
+10805,2087530.0,2521,palisades avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057457501.0,-73.922066,40.881059,208.0,11.0,29301.0,bx0803
+10806,2088687.0,3220,fairfield avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057897501.0,-73.913472,40.884844,208.0,11.0,29700.0,bx0803
+10807,2090413.0,372,east 152 street,10455,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023980014.0,-73.91793,40.818516,201.0,17.0,6700.0,bx0102
+10808,2090994.0,400,brook avenue,10454,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2022690100.0,-73.916891,40.811543,201.0,8.0,4100.0,bx0101
+10809,2091098.0,340,alexander avenue,10454,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023040001.0,-73.923295,40.812552,201.0,8.0,4100.0,bx0101
+10810,2091132.0,314,east 143 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023250001.0,-73.923748,40.814392,201.0,8.0,5100.0,bx0101
+10811,2091140.0,205,alexander avenue,10454,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023110001.0,-73.925994,40.808909,201.0,8.0,2300.0,bx0101
+10812,2091185.0,1260,webster ave,10456,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023950001.0,-73.909131,40.833133,203.0,16.0,14500.0,bx0302
+10813,2091221.0,300,east 158 street,10451,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024160001.0,-73.917512,40.823118,201.0,17.0,6900.0,bx0102
+10814,2091269.0,640,east 137th street,10454,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2025480001.0,-73.91553,40.805087,201.0,8.0,2701.0,bx0101
+10815,2091283.0,694,east 149 street,10455,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2025570083.0,-73.909512,40.813316,201.0,8.0,3500.0,bx0101
+10816,2091470.0,560,balcom avenue,10465,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2055640001.0,-73.826134,40.821139,210.0,13.0,14400.0,bx1002
+10817,2091473.0,2830,schley avenue,10465,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2055640001.0,-73.822991,40.823657,210.0,13.0,14400.0,bx1002
+10818,2091859.0,3130,irwin avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057140164.0,-73.908826,40.881708,208.0,11.0,28900.0,bx0802
+10819,2091865.0,80,knolls crescent,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057230042.0,-73.918249,40.879226,208.0,11.0,29302.0,bx0803
+10820,2091866.0,55,knolls crescent,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2057230084.0,-73.918275,40.879004,208.0,11.0,29302.0,bx0803
+10821,2091924.0,600,west 246 street,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059090825.0,-73.910207,40.892614,208.0,11.0,30701.0,bx0803
+10822,2091925.0,3750,hudson manor terrace,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059190448.0,-73.915597,40.888713,208.0,11.0,30900.0,bx0803
+10823,2091949.0,920,trinity avenue,10456,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2026380001.0,-73.906125,40.822437,203.0,17.0,13300.0,bx0301
+10824,2091949.0,920,trinity avenue,10456,bronx,active,2.0,nyc health department audit,2022.0,0,0,0,2019.0,0,0.0,2026380001.0,-73.906125,40.822437,203.0,17.0,13300.0,bx0301
+10825,2091949.0,920,trinity avenue,10456,bronx,active,2.0,nyc health department audit,2022.0,0,0,0,2020.0,0,0.0,2026380001.0,-73.906125,40.822437,203.0,17.0,13300.0,bx0301
+10826,2091949.0,920,trinity avenue,10456,bronx,active,2.0,nyc health department audit,2022.0,0,0,0,2021.0,0,0.0,2026380001.0,-73.906125,40.822437,203.0,17.0,13300.0,bx0301
+10827,2091961.0,1000,trinity avenue,10456,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2026390001.0,-73.905084,40.824865,203.0,17.0,13300.0,bx0301
+10828,2091988.0,710,tinton avenue,10455,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2026650001.0,-73.90507,40.816985,201.0,8.0,7900.0,bx0102
+10829,2092068.0,1889,sedgwick avenue,10453,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028810058.0,-73.917347,40.854224,205.0,16.0,24700.0,bx0501
+10830,2092068.0,1889,sedgwick avenue,10453,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2019.0,0,0.0,2028810058.0,-73.917347,40.854224,205.0,16.0,24700.0,bx0501
+10831,2092068.0,1889,sedgwick avenue,10453,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2020.0,0,0.0,2028810058.0,-73.917347,40.854224,205.0,16.0,24700.0,bx0501
+10832,2092068.0,1889,sedgwick avenue,10453,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2021.0,0,0.0,2028810058.0,-73.917347,40.854224,205.0,16.0,24700.0,bx0501
+10833,2092070.0,1849,sedgwick avenue,10453,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028810084.0,-73.918082,40.853212,205.0,16.0,24700.0,bx0501
+10834,2092072.0,1368,webster avenue,10456,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028940001.0,-73.907805,40.835492,203.0,16.0,14701.0,bx0302
+10835,2092100.0,1357,washington avenue,10456,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2029010001.0,-73.905219,40.834313,203.0,16.0,14701.0,bx0302
+10836,2092103.0,162,west 174 street,10453,bronx,not active,0.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028770001.0,-73.922666,40.847163,205.0,14.0,20501.0,bx0501
+10837,2092107.0,156,west 174 street,10453,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028770001.0,-73.922369,40.847385,205.0,14.0,20501.0,bx0501
+10838,2092113.0,500,east 171 street,10457,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2029110001.0,-73.902916,40.837489,203.0,16.0,14702.0,bx0302
+10839,2092142.0,1805,crotona avenue,10457,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2029440001.0,-73.893862,40.84246,206.0,15.0,36902.0,bx0602
+10840,2092284.0,665,east  181 street,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2030830001.0,-73.88899,40.849356,206.0,15.0,37300.0,bx0602
+10841,2092433.0,2420,sedgwick avenue,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032260053.0,-73.908922,40.864433,207.0,14.0,26100.0,bx0701
+10842,2092433.0,2420,sedgwick avenue,10468,bronx,active,2.0,nyc health department audit & inspection,2022.0,0,0,0,2019.0,0,0.0,2032260053.0,-73.908922,40.864433,207.0,14.0,26100.0,bx0701
+10843,2092433.0,2420,sedgwick avenue,10468,bronx,active,2.0,nyc health department audit & inspection,2022.0,0,0,0,2020.0,0,0.0,2032260053.0,-73.908922,40.864433,207.0,14.0,26100.0,bx0701
+10844,2092433.0,2420,sedgwick avenue,10468,bronx,active,2.0,nyc health department audit & inspection,2022.0,0,0,0,2021.0,0,0.0,2032260053.0,-73.908922,40.864433,207.0,14.0,26100.0,bx0701
+10845,2092440.0,2663,heath ave,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032390004.0,-73.906264,40.869726,207.0,14.0,26900.0,bx0701
+10846,2092444.0,20,west mosholu parkway south,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032510490.0,-73.885897,40.880209,207.0,11.0,40900.0,bx0702
+10847,2092445.0,40,west mosholu parkway south,10468,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032510490.0,-73.88579,40.87955,207.0,11.0,40900.0,bx0702
+10848,2092475.0,3845,sedgwick avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032630235.0,-73.895379,40.882548,208.0,11.0,27900.0,bx0801
+10849,2092482.0,2811,exterior street,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032650001.0,-73.906558,40.873794,208.0,14.0,28300.0,bx0802
+10850,2092610.0,551,rosedale avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2035150001.0,-73.865516,40.815771,209.0,18.0,2001.0,bx0902
+10851,2092651.0,639,rosedale avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2035510001.0,-73.865882,40.817342,209.0,18.0,2001.0,bx0902
+10852,2092671.0,2070,seward avenue,10473,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2035670001.0,-73.852648,40.820559,209.0,18.0,7400.0,bx0903
+10853,2092671.0,2070,seward avenue,10473,bronx,active,2.0,nyc health department audit & inspection,2022.0,0,0,0,2019.0,0,0.0,2035670001.0,-73.852648,40.820559,209.0,18.0,7400.0,bx0903
+10854,2092673.0,635,castle hill ave,10473,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2035700001.0,-73.848292,40.820103,209.0,18.0,8600.0,bx0903
+10855,2092719.0,820,colgate avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036230001.0,-73.879906,40.81963,209.0,18.0,2800.0,bx0901
+10856,2092720.0,825,boynton avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036230020.0,-73.87626,40.820139,209.0,18.0,2800.0,bx0901
+10857,2092723.0,820,boynton avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036270040.0,-73.87622,40.82007,209.0,18.0,2800.0,bx0901
+10858,2092759.0,820,theriot avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036420030.0,-73.862172,40.822154,209.0,18.0,4200.0,bx0902
+10859,2092761.0,1785,story avenue,10473,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036630001.0,-73.866043,40.823243,209.0,18.0,4200.0,bx0902
+10860,2092767.0,945,underhill avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036680001.0,-73.860866,40.824628,209.0,18.0,4200.0,bx0902
+10861,2092768.0,910,theriot avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036680001.0,-73.862616,40.824046,209.0,18.0,4200.0,bx0902
+10862,2092770.0,2001,story avenue,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036810001.0,-73.855193,40.824704,209.0,18.0,9800.0,bx0903
+10863,2092773.0,2010,bruckner boulevard,10473,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2036820001.0,-73.855483,40.826123,209.0,18.0,9800.0,bx0903
+10864,2092790.0,1040,soundview avenue,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037230001.0,-73.87067,40.825724,209.0,18.0,4400.0,bx0901
+10865,2092796.0,1755,bruckner boulevard,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037250001.0,-73.867134,40.825292,209.0,18.0,4400.0,bx0901
+10866,2092808.0,1815,bruckner boulevard,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2037300001.0,-73.864015,40.825724,209.0,18.0,4400.0,bx0901
+10867,2092906.0,1575,east 174 street,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2038860002.0,-73.877582,40.833853,209.0,17.0,6200.0,bx0901
+10868,2092911.0,1435,harrod avenue,10472,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2038860002.0,-73.87487,40.834605,209.0,17.0,6200.0,bx0901
+10869,2093350.0,2300,olinville avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2043420010.0,-73.868536,40.859808,211.0,15.0,33201.0,bx1104
+10870,2093400.0,2440,boston road,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2044310001.0,-73.866239,40.862377,211.0,13.0,33000.0,bx1104
+10871,2093516.0,735,magenta street,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2046290050.0,-73.865715,40.87503,212.0,12.0,37400.0,bx1201
+10872,2093522.0,3555,olinville avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2046410016.0,-73.867634,40.879075,212.0,12.0,37800.0,bx1201
+10873,2093569.0,801,tilden street,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2046710051.0,-73.861578,40.876864,212.0,12.0,38000.0,bx1201
+10874,2093696.0,745,east 231 street,10466,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2048450011.0,-73.856794,40.89163,212.0,11.0,42200.0,bx1203
+10875,2093697.0,730,east 232 street,10466,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2048450011.0,-73.856551,40.892368,212.0,11.0,42200.0,bx1203
+10876,2093860.0,120,elgar place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051350051.0,-73.821595,40.863508,210.0,12.0,30202.0,bx1004
+10877,2093875.0,3565,bivona street,10475,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2052630040.0,-73.83332,40.883243,212.0,12.0,46209.0,bx1202
+10878,2093916.0,360,east 137th street,10454,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2022980040.0,-73.924863,40.809035,201.0,8.0,2300.0,bx0101
+10879,2093925.0,700,morris avenue,10451,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024130001.0,-73.921168,40.820856,201.0,17.0,6700.0,bx0102
+10880,2093927.0,775,concourse village east,10451,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024430170.0,-73.919789,40.82318,204.0,16.0,6100.0,bx0401
+10881,2093928.0,645,westchester avenue,10455,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2026280001.0,-73.908937,40.81597,201.0,8.0,7500.0,bx0102
+10882,2094169.0,1160,229 drive south,10466,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2049050003.0,-73.845192,40.885115,212.0,12.0,45800.0,bx1202
+10883,2094217.0,4422,3 avenue,10457,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2030640001.0,-73.891611,40.853346,206.0,15.0,37504.0,bx0602
+10884,2094217.0,4422,3 avenue,10457,bronx,active,2.0,nyc health department audit,2022.0,0,0,0,2019.0,0,0.0,2030640001.0,-73.891611,40.853346,206.0,15.0,37504.0,bx0602
+10885,2094217.0,4422,3 avenue,10457,bronx,active,2.0,nyc health department audit,2022.0,0,0,0,2020.0,0,0.0,2030640001.0,-73.891611,40.853346,206.0,15.0,37504.0,bx0602
+10886,2094217.0,4422,3 avenue,10457,bronx,active,2.0,nyc health department audit,2022.0,0,0,0,2021.0,0,0.0,2030640001.0,-73.891611,40.853346,206.0,15.0,37504.0,bx0602
+10887,2094530.0,1650,selwyn avenue,10457,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2028240005.0,-73.910407,40.843248,204.0,15.0,22703.0,bx0403
+10888,2094766.0,160,east gunhill road,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2033430283.0,-73.878359,40.881008,207.0,11.0,42100.0,bx0703
+10889,2095200.0,3975,sedgwick avenue,10463,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032520052.0,-73.889491,40.882649,208.0,11.0,28100.0,bx0801
+10890,2095220.0,1125,university avenue,10452,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2025270032.0,-73.928409,40.836953,204.0,16.0,19300.0,bx0402
+10891,2095394.0,140,alcott place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.830057,40.872318,210.0,12.0,46205.0,bx1004
+10892,2095397.0,600,baychester avenue,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.833407,40.871826,210.0,12.0,46205.0,bx1004
+10893,2095397.0,600,baychester avenue,10475,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2019.0,0,0.0,2051410120.0,-73.833407,40.871826,210.0,12.0,46205.0,bx1004
+10894,2095397.0,600,baychester avenue,10475,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2020.0,0,0.0,2051410120.0,-73.833407,40.871826,210.0,12.0,46205.0,bx1004
+10895,2095397.0,600,baychester avenue,10475,bronx,active,1.0,nyc health department audit,2022.0,0,0,0,2021.0,0,0.0,2051410120.0,-73.833407,40.871826,210.0,12.0,46205.0,bx1004
+10896,2095398.0,100,bellamy loop,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.825346,40.872505,210.0,12.0,46204.0,bx1004
+10897,2096398.0,100,east gunhill road,10467,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2033270001.0,-73.879526,40.881607,207.0,11.0,42100.0,bx0703
+10898,2096399.0,111,east 210 street,10467,bronx,not active,3.0,nyc health department inspection,2022.0,0,0,0,2019.0,0,0.0,2033270001.0,-73.880481,40.879885,207.0,11.0,42100.0,bx0703
+10899,2096399.0,111,east 210 street,10467,bronx,not active,3.0,nyc health department inspection,2022.0,0,0,0,2020.0,0,0.0,2033270001.0,-73.880481,40.879885,207.0,11.0,42100.0,bx0703
+10900,2096399.0,111,east 210 street,10467,bronx,not active,3.0,nyc health department inspection,2022.0,0,0,0,2021.0,0,0.0,2033270001.0,-73.880481,40.879885,207.0,11.0,42100.0,bx0703
+10901,2096399.0,111,east 210 street,10467,bronx,not active,0.0,other,2022.0,0,0,0,2022.0,0,0.0,2033270001.0,-73.880481,40.879885,207.0,11.0,42100.0,bx0703
+10902,2096603.0,89,metropolitan oval,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.860624,40.838291,209.0,18.0,21602.0,bx0904
+10903,2096610.0,1595,unionport road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.862655,40.84038,209.0,18.0,21602.0,bx0904
+10904,2096617.0,1505,archer road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.863085,40.838511,209.0,18.0,21602.0,bx0904
+10905,2096620.0,1420,wood road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.862277,40.835886,209.0,18.0,21602.0,bx0904
+10906,2096637.0,1491,west avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.861509,40.836774,209.0,18.0,21602.0,bx0904
+10907,2096639.0,1470,west avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.861433,40.83692,209.0,18.0,21602.0,bx0904
+10908,2096641.0,44,metropolitan oval,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.859639,40.837755,209.0,18.0,21200.0,bx0904
+10909,2096651.0,1551,unionport road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.857433,40.836926,209.0,18.0,21200.0,bx0904
+10910,2096656.0,2059,mcgraw avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.856008,40.835571,209.0,18.0,21200.0,bx0904
+10911,2096664.0,1430,parkchester road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.859701,40.835897,209.0,18.0,21200.0,bx0904
+10912,2096667.0,1,metropolitan oval,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.860229,40.838834,209.0,18.0,21001.0,bx0904
+10913,2096672.0,1925,mcgraw avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.860672,40.834641,209.0,18.0,21200.0,bx0904
+10914,2096683.0,1594,unionport road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.862738,40.840487,209.0,18.0,21001.0,bx0904
+10915,2096685.0,1470,east avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.860158,40.836745,209.0,18.0,21200.0,bx0904
+10916,2096688.0,1469,east avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039387501.0,-73.860183,40.83674,209.0,18.0,21200.0,bx0904
+10917,2096693.0,14,metropolitan oval,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.859143,40.838289,209.0,18.0,21002.0,bx0904
+10918,2096700.0,1970,east tremont avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.86104,40.841585,209.0,18.0,21001.0,bx0904
+10919,2096705.0,2090,east tremont avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.857942,40.841936,209.0,18.0,21001.0,bx0904
+10920,2096708.0,22,metropolitan oval,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.85911,40.838196,209.0,18.0,21002.0,bx0904
+10921,2096719.0,1540,unionport road,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.857295,40.83686,209.0,18.0,21002.0,bx0904
+10922,2096720.0,1516,unionport road,10462,bronx,not active,0.0,other,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.85644,40.836307,209.0,18.0,21002.0,bx0904
+10923,2096725.0,2061,saint raymond avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.855212,40.837497,209.0,18.0,21002.0,bx0904
+10924,2096732.0,1575,odell street,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.854621,40.838429,209.0,18.0,21002.0,bx0904
+10925,2096744.0,1604,metropolitan avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.856826,40.840178,209.0,18.0,21002.0,bx0904
+10926,2096748.0,1560,metropolitan avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039437501.0,-73.857904,40.839754,209.0,18.0,21002.0,bx0904
+10927,2096753.0,100,benchley place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.825658,40.874526,210.0,12.0,46204.0,bx1004
+10928,2096760.0,1705,purdy street,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.854486,40.840982,209.0,18.0,21001.0,bx0904
+10929,2096766.0,1605,metropolitan avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.856218,40.840344,209.0,18.0,21001.0,bx0904
+10930,2096773.0,1579,metropolitan avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.857404,40.839989,209.0,18.0,21001.0,bx0904
+10931,2096774.0,1541,metropolitan avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039447501.0,-73.858425,40.839504,209.0,18.0,21001.0,bx0904
+10932,2096807.0,100,casals place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.8239,40.878931,210.0,12.0,46203.0,bx1004
+10933,2096813.0,120,de kruif place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.829197,40.87522,210.0,12.0,46206.0,bx1004
+10934,2096857.0,4455,douglas avenue,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059237501.0,-73.916882,40.887775,208.0,11.0,30900.0,bx0803
+10935,2097005.0,1919,mcgraw avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039377501.0,-73.861312,40.834578,209.0,18.0,21602.0,bx0904
+10936,2097050.0,234,east 149 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023350016.0,-73.924156,40.81774,201.0,17.0,6500.0,bx0102
+10937,2097114.0,265,east 161 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024440001.0,-73.919514,40.825928,204.0,16.0,18302.0,bx0401
+10938,2097319.0,555,east  191 street,10458,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032730001.0,-73.885921,40.8597,206.0,15.0,39700.0,bx0603
+10939,2097319.0,555,east  191 street,10458,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2019.0,0,0.0,2032730001.0,-73.885921,40.8597,206.0,15.0,39700.0,bx0603
+10940,2097319.0,555,east  191 street,10458,bronx,active,1.0,nyc health department audit & inspection,2022.0,0,0,0,2020.0,0,0.0,2032730001.0,-73.885921,40.8597,206.0,15.0,39700.0,bx0603
+10941,2097360.0,1600,tenbroeck avenue,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041170005.0,-73.846496,40.848407,211.0,13.0,28600.0,bx1102
+10942,2097363.0,1300,morris park avenue,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041170001.0,-73.844823,40.851182,211.0,13.0,28600.0,bx1102
+10943,2097364.0,1250,morris park avenue,10461,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2041170001.0,-73.846768,40.851166,211.0,13.0,28600.0,bx1102
+10944,2097550.0,1400,pelham parkway,10461,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2042050001.0,-73.847079,40.857427,211.0,13.0,29600.0,bx1102
+10945,2097552.0,1410,pelham parkway south,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2042050055.0,-73.846963,40.857424,211.0,13.0,29600.0,bx1102
+10946,2097991.0,1138,229 drive south,10466,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2049050003.0,-73.846023,40.885536,212.0,12.0,45800.0,bx1202
+10947,2098307.0,3204,park ave,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024099059.0,-73.916267,40.825206,203.0,16.0,14100.0,bx0301
+10948,2098341.0,1181,walton avenue,10452,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024790029.0,-73.919851,40.834445,204.0,16.0,19700.0,bx0401
+10949,2100430.0,6,pennyfield avenue,10465,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2055300050.0,-73.801251,40.80911,210.0,13.0,11800.0,bx1002
+10950,2100990.0,3125-3135,park ave,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024209078.0,-73.917443,40.823972,204.0,16.0,17300.0,bx0401
+10951,2101266.0,1118,grand concourse,10456,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024620039.0,-73.919655,40.832232,204.0,16.0,18102.0,bx0401
+10952,2101571.0,790,concourse village west,10451,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024439080.0,-73.922634,40.824343,204.0,16.0,6100.0,bx0401
+10953,2101747.0,635,arnow avenue,10467,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2045420100.0,-73.869688,40.867945,211.0,12.0,33601.0,bx1104
+10954,2102025.0,441,east fordham road,10458,bronx,not active,0.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2032730001.0,-73.889535,40.860733,206.0,15.0,39700.0,bx0603
+10955,2102829.0,3071-3073,park ave,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024209020.0,-73.919417,40.8227,204.0,16.0,17300.0,bx0401
+10956,2103483.0,5620,netherland avenue,10471,bronx,active,2.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2059530550.0,-73.906298,40.904666,208.0,11.0,32300.0,bx0803
+10957,2112632.0,5500,fieldston road,10471,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2058451825.0,-73.901058,40.903245,208.0,11.0,34500.0,bx0803
+10958,2114490.0,1,east 161 street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2024930001.0,-73.928497,40.829035,204.0,16.0,6302.0,bx0491
+10959,2120051.0,1225,morris park avenue,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2042050030.0,-73.847523,40.851095,211.0,13.0,29600.0,bx1102
+10960,2120270.0,1952,benedict avenue,10462,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2039300033.0,-73.8593,40.834156,209.0,18.0,22200.0,bx0904
+10961,2125035.0,350,marconi street,10461,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2042260075.0,-73.839048,40.853529,211.0,13.0,28400.0,bx1161
+10962,2128824.0,120,erskine place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051350051.0,-73.821923,40.861192,210.0,12.0,30201.0,bx1004
+10963,2128826.0,2440,hunter avenue,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051350051.0,-73.824906,40.862135,210.0,12.0,30201.0,bx1004
+10964,2128829.0,140,einstein loop,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051350051.0,-73.821753,40.864979,210.0,12.0,30202.0,bx1004
+10965,2128847.0,140,donizetti place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.832485,40.875903,210.0,12.0,46207.0,bx1004
+10966,2128850.0,170,dreiser loop,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.829615,40.877139,210.0,12.0,46207.0,bx1004
+10967,2128856.0,140,debs place,10475,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2051410120.0,-73.82744,40.876395,210.0,12.0,46203.0,bx1004
+10968,2129112.0,500,exterior street,10451,bronx,active,1.0,self-reported annual inspection,2022.0,0,0,0,2022.0,0,0.0,2023510021.0,-73.930409,40.818595,201.0,8.0,6301.0,bx0401

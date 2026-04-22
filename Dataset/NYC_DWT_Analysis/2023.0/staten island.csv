@@ -1,0 +1,6 @@
+,BIN,House #,Street Name,Zip_code,Borough,Status,Number of DWT,Activity_Type,Activity_Year,Violation_Code,Law_Section,Violation_Text,Compliance_Year,Date_of_Occurrence,Summons_Number,BBL,Longitude,Latitude,Community_Board,Council_District,Census_Tract,NTA_Code
+16556,5015146.0,700,victory boulevard,10301,staten island,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,5005900001.0,-74.092327,40.625672,501.0,49.0,3900.0,si0104
+16557,5089353.0,80,bay street landing,10301,staten island,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,5000017501.0,-74.073261,40.640384,501.0,49.0,300.0,si0101
+16558,5108502.0,185,st marks place,10301,staten island,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,5000130008.0,-74.080729,40.645358,501.0,49.0,700.0,si0101
+16559,5157402.0,31,hylan boulevard,10305,staten island,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,5028297501.0,-74.06448,40.614937,501.0,49.0,600.0,si0103
+16560,5164494.0,55,richmond terrace,10301,staten island,active,1.0,self-reported annual inspection,2023.0,0,0,0,2023.0,0,0.0,5000020015.0,-74.076584,40.64412,501.0,49.0,300.0,si0101

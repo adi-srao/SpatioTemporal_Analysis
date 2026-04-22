@@ -1,0 +1,16 @@
+,BIN,House #,Street Name,Zip_code,Borough,Status,Number of DWT,Activity_Type,Activity_Year,Violation_Code,Law_Section,Violation_Text,Compliance_Year,Date_of_Occurrence,Summons_Number,BBL,Longitude,Latitude,Community_Board,Council_District,Census_Tract,NTA_Code
+45,1001167.0,111,john street,10038,manhattan,active,3.0,nyc health department audit,2024.0,0,0,0,2020.0,0,0.0,1000750030.0,-74.005764,40.707671,101.0,1.0,1502.0,mn0101
+68,1001167.0,111,john street,10038,manhattan,active,3.0,nyc health department audit,2024.0,0,0,0,2021.0,0,0.0,1000750030.0,-74.005764,40.707671,101.0,1.0,1502.0,mn0101
+91,1001167.0,111,john street,10038,manhattan,active,3.0,nyc health department audit,2024.0,0,0,0,2022.0,0,0.0,1000750030.0,-74.005764,40.707671,101.0,1.0,1502.0,mn0101
+114,1001167.0,111,john street,10038,manhattan,active,3.0,nyc health department audit,2024.0,0,0,0,2023.0,0,0.0,1000750030.0,-74.005764,40.707671,101.0,1.0,1502.0,mn0101
+137,1001167.0,111,john street,10038,manhattan,active,3.0,nyc health department audit,2024.0,0,0,0,2024.0,0,0.0,1000750030.0,-74.005764,40.707671,101.0,1.0,1502.0,mn0101
+160,1022553.0,801,east 14th street,10009,manhattan,active,2.0,nyc health department audit,2024.0,0,0,0,2020.0,0,0.0,1009880001.0,-73.973106,40.727353,106.0,4.0,4400.0,mn0601
+183,1022553.0,801,east 14th street,10009,manhattan,active,2.0,nyc health department audit,2024.0,0,0,0,2021.0,0,0.0,1009880001.0,-73.973106,40.727353,106.0,4.0,4400.0,mn0601
+206,1022553.0,801,east 14th street,10009,manhattan,active,2.0,nyc health department audit,2024.0,0,0,0,2022.0,0,0.0,1009880001.0,-73.973106,40.727353,106.0,4.0,4400.0,mn0601
+229,1022553.0,801,east 14th street,10009,manhattan,active,2.0,nyc health department audit,2024.0,0,0,0,2023.0,0,0.0,1009880001.0,-73.973106,40.727353,106.0,4.0,4400.0,mn0601
+252,1022553.0,801,east 14th street,10009,manhattan,active,2.0,nyc health department audit,2024.0,0,0,0,2024.0,0,0.0,1009880001.0,-73.973106,40.727353,106.0,4.0,4400.0,mn0601
+275,1046953.0,47,east 88th street,10128,manhattan,active,1.0,nyc health department audit,2024.0,0,0,0,2020.0,0,0.0,1015000020.0,-73.95741,40.78198,108.0,4.0,15002.0,mn0802
+298,1046953.0,47,east 88th street,10128,manhattan,active,1.0,nyc health department audit,2024.0,0,0,0,2021.0,0,0.0,1015000020.0,-73.95741,40.78198,108.0,4.0,15002.0,mn0802
+321,1046953.0,47,east 88th street,10128,manhattan,active,1.0,nyc health department audit,2024.0,0,0,0,2022.0,0,0.0,1015000020.0,-73.95741,40.78198,108.0,4.0,15002.0,mn0802
+344,1046953.0,47,east 88th street,10128,manhattan,active,1.0,nyc health department audit,2024.0,0,0,0,2023.0,0,0.0,1015000020.0,-73.95741,40.78198,108.0,4.0,15002.0,mn0802
+367,1046953.0,47,east 88th street,10128,manhattan,active,1.0,nyc health department audit,2024.0,0,0,0,2024.0,0,0.0,1015000020.0,-73.95741,40.78198,108.0,4.0,15002.0,mn0802
